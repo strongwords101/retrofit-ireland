@@ -16,16 +16,17 @@ The 14 fictional providers need to be replaced with real Irish companies.
 
 ### Target: aim for 5–10 real providers per category to start
 
-- [ ] BER Assessors (nationwide, at least one per province)
-- [ ] External Wall Insulation contractors
-- [ ] Internal Wall Insulation contractors
-- [ ] Attic & Floor Insulation contractors
-- [ ] Heat Pump installers
-- [ ] Solar PV installers
-- [ ] Airtightness Testing specialists
-- [ ] MVHR / Ventilation specialists
-- [ ] Windows & Doors suppliers/installers
-- [ ] One-Stop-Shop Retrofit contractors (SEAI approved list is publicly available)
+- [x] External Wall Insulation contractors — 227 scraped from SEAI register
+- [x] Internal Wall Insulation contractors — 815 scraped from SEAI register
+- [x] Attic & Floor Insulation contractors — 813 scraped from SEAI register
+- [x] Heat Pump installers — 602 scraped from SEAI register
+- [x] Windows & Doors suppliers/installers — 572 scraped from SEAI register
+- [x] Solar Thermal installers — 223 scraped from SEAI register
+- [x] One-Stop-Shop Retrofit contractors — 32 added manually from SEAI approved list
+- [ ] **BER Assessors** — register at `ndber.seai.ie` is reCAPTCHA-protected. Options: (a) use 2captcha or Anti-Captcha service (~$5–10 for full list), (b) wait for SEAI to publish as open data. Thousands of assessors nationwide — high value category.
+- [ ] **Solar PV installers** — not on the main SEAI BEH register; separate SEAI portal also blocks scraping. Same captcha-solving approach needed, or source from SEAI Solar PV grant page manually.
+- [ ] Airtightness Testing specialists — no central Irish register; best sources are ACAI.ie member list and NSAI-accredited testers. Manual curation required.
+- [ ] MVHR / Ventilation specialists — no central register; source from manufacturer approved installer lists (Zehnder, Brink, etc.) or HPAI members. Manual curation required.
 
 ### For each provider, confirm before adding:
 - [ ] Company is currently SEAI registered (check seai.ie register)
