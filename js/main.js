@@ -54,22 +54,43 @@ const icon = {
 // ---- Article body renderer -------------------------------------------
 // Supports rich content blocks alongside plain strings (backward compat).
 
+// Renders text with [label](https://url) markdown links — https only, no XSS.
+function renderText(text) {
+  const parts = [];
+  let last = 0;
+  const re = /\[([^\]]+)\]\((https:\/\/[^\s)]+)\)/g;
+  let m;
+  while ((m = re.exec(text)) !== null) {
+    parts.push(esc(text.slice(last, m.index)));
+    parts.push(`<a href="${esc(m[2])}" target="_blank" rel="noopener noreferrer">${esc(m[1])}</a>`);
+    last = m.index + m[0].length;
+  }
+  parts.push(esc(text.slice(last)));
+  return parts.join('');
+}
+
 function renderBody(body) {
   if (!Array.isArray(body)) return `<p>${esc(String(body))}</p>`;
   return body.map(block => {
-    if (typeof block === 'string') return `<p>${esc(block)}</p>`;
+    if (typeof block === 'string') return `<p>${renderText(block)}</p>`;
     const { type } = block;
     if (type === 'h2') return `<h2 class="article-h2">${esc(block.text)}</h2>`;
     if (type === 'h3') return `<h3 class="article-h3">${esc(block.text)}</h3>`;
-    if (type === 'p')  return `<p>${esc(block.text)}</p>`;
-    if (type === 'ul') return `<ul class="article-list">${block.items.map(i => `<li>${esc(i)}</li>`).join('')}</ul>`;
-    if (type === 'ol') return `<ol class="article-list article-list--ol">${block.items.map(i => `<li>${esc(i)}</li>`).join('')}</ol>`;
-    if (type === 'callout') return `<div class="article-callout">${esc(block.text)}</div>`;
+    if (type === 'p')  return `<p>${renderText(block.text)}</p>`;
+    if (type === 'ul') return `<ul class="article-list">${block.items.map(i => `<li>${renderText(i)}</li>`).join('')}</ul>`;
+    if (type === 'ol') return `<ol class="article-list article-list--ol">${block.items.map(i => `<li>${renderText(i)}</li>`).join('')}</ol>`;
+    if (type === 'callout') return `<div class="article-callout">${renderText(block.text)}</div>`;
     if (type === 'cta') return `<div class="article-cta"><a href="${esc(block.href)}" class="btn btn-primary">${esc(block.text)}</a></div>`;
     if (type === 'table') {
       const headers = block.headers.map(h => `<th>${esc(h)}</th>`).join('');
-      const rows    = block.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('');
+      const rows    = block.rows.map(r => `<tr>${r.map(c => `<td>${renderText(c)}</td>`).join('')}</tr>`).join('');
       return `<div class="article-table-wrap"><table class="article-table"><thead><tr>${headers}</tr></thead><tbody>${rows}</tbody></table></div>`;
+    }
+    if (type === 'sources') {
+      const items = block.items.map(s =>
+        `<li><a href="${esc(s.href)}" target="_blank" rel="noopener noreferrer">${esc(s.text)}</a></li>`
+      ).join('');
+      return `<div class="article-sources"><h4>Official Sources &amp; Further Reading</h4><ul>${items}</ul></div>`;
     }
     return '';
   }).join('\n');
