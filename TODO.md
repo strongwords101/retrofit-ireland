@@ -148,7 +148,7 @@ Required for any Irish/EU website, especially one collecting contact details via
 ## 🚀 9. Launch & Growth
 
 ### Before going public
-- [ ] **Remove `noindex` / `nofollow`** — delete `<meta name="robots" content="noindex, nofollow">` from all 5 HTML files (index, directory, news, about, article) and change `robots.txt` from `Disallow: /` to `Allow: /`
+- [ ] **Remove `noindex` / `nofollow`** — delete `<meta name="robots" content="noindex, nofollow">` from all 5 HTML files (`index.html`, `directory.html`, `news.html`, `about.html`, `article.html`) and change `robots.txt` from `Disallow: /` to `Allow: /`. Note: `article.html` is a template rendered dynamically — easy to overlook.
 - [ ] Remove all fictional/placeholder providers from `providers.json`
 - [ ] Remove all sample articles that have not been verified for accuracy
 - [ ] Do a final proofread of all static page copy (about.html especially)
@@ -285,7 +285,7 @@ One article every ~2 weeks keeps the site fresh for Google and gives homeowners 
 
 | # | Title | Category | Target month |
 |---|---|---|---|
-| 1 | SEAI Grants 2025 — Complete Guide | SEAI Grants | Month 1 |
+| 1 | SEAI Grants 2026 — Complete Guide | SEAI Grants | Month 1 |
 | 2 | How to Insulate Your Attic | How-To | Month 1 |
 | 3 | What Is a BER Rating? | How-To | Month 2 |
 | 4 | Heat Pumps in Ireland — The Full Story | How-To | Month 2 |
@@ -316,7 +316,41 @@ One article every ~2 weeks keeps the site fresh for Google and gives homeowners 
 
 ---
 
-## 💡 17. Future Features (Post-Launch)
+## 📖 17. Glossary of Retrofit Terms
+
+A dedicated glossary page (`glossary.html`) covering the key terms Irish homeowners encounter. Good for UX (reduces jargon confusion) and SEO (glossary pages attract long-tail definitional searches and can rank for "what is X" queries).
+
+### Terms to define (minimum viable list)
+- [ ] **BER** — Building Energy Rating; what the letters mean, how it's calculated
+- [ ] **DEAP** — Dwelling Energy Assessment Procedure; the software used for BER calculations
+- [ ] **U-value** — measure of heat transfer through a building element; lower = better
+- [ ] **Thermal bridging** — heat loss through structural elements that bypass insulation
+- [ ] **Air permeability / Airtightness** — how much air leaks in/out; measured in m³/hr/m²
+- [ ] **Heat pump COP / SCOP** — Coefficient of Performance; efficiency ratio for heat pumps
+- [ ] **kWp** — kilowatt peak; unit used to rate solar PV panel capacity
+- [ ] **One-Stop-Shop (OSS)** — SEAI-approved single-contractor whole-home retrofit route
+- [ ] **NZEB** — Nearly Zero Energy Building; the standard for new Irish homes
+- [ ] **Part L** — the section of Irish building regulations covering energy in dwellings
+- [ ] **MVHR** — Mechanical Ventilation with Heat Recovery
+- [ ] **External Wall Insulation (EWI)** — insulation applied to outside of walls
+- [ ] **Internal Wall Insulation (IWI / dry-lining)** — insulation applied inside walls
+- [ ] **Cavity wall** — wall construction with a gap (cavity) between inner and outer leaf
+- [ ] **Retrofit** — upgrading an existing building's energy performance
+- [ ] **Deep retrofit** — whole-home upgrade targeting B2 BER or better
+- [ ] **Better Energy Homes** — SEAI's individual grant scheme for owner-occupiers
+- [ ] **Warmer Homes Scheme** — fully-funded SEAI scheme for low-income households
+- [ ] **Green mortgage** — mortgage with preferential rate for high-BER homes
+- [ ] **Solar thermal** — solar panels that heat water (distinct from Solar PV which generates electricity)
+
+### Implementation notes
+- [ ] Build as a static `glossary.html` page with anchor links (`#ber`, `#u-value`, etc.) so terms can be linked to directly from article text
+- [ ] Add FAQ-style JSON-LD schema to each term — helps Google surface definitions as rich results
+- [ ] Link to glossary from article pages where jargon is first introduced
+- [ ] Add glossary link to the main navigation
+
+---
+
+## 💡 18. Future Features (Post-Launch)
 
 Not needed for launch, but worth planning for.
 
@@ -330,4 +364,4 @@ Not needed for launch, but worth planning for.
 
 ---
 
-*Last updated: May 2026*
+*Last updated: May 2026 — 10 articles live, 1,952 providers, glossary section added*
