@@ -131,16 +131,16 @@
       <div class="container">
         <h2 class="section-title text-center" style="margin-bottom: 2rem;">Browse by <span>Service</span></h2>
         <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.875rem;">
-          <a href="directory.html?category=BER+Assessors" class="category-link-card">BER Assessors</a>
+          <a href="directory.html?category=Attic+%26+Floor+Insulation" class="category-link-card">Attic &amp; Floor Insulation</a>
           <a href="directory.html?category=External+Wall+Insulation" class="category-link-card">External Wall Insulation</a>
           <a href="directory.html?category=Internal+Wall+Insulation" class="category-link-card">Internal Wall Insulation</a>
-          <a href="directory.html?category=Attic+%26+Floor+Insulation" class="category-link-card">Attic &amp; Floor Insulation</a>
           <a href="directory.html?category=Heat+Pumps" class="category-link-card">Heat Pumps</a>
-          <a href="directory.html?category=Solar+PV" class="category-link-card">Solar PV</a>
-          <a href="directory.html?category=Airtightness+Testing" class="category-link-card">Airtightness Testing</a>
-          <a href="directory.html?category=MVHR+%2F+Ventilation" class="category-link-card">MVHR / Ventilation</a>
           <a href="directory.html?category=Windows+%26+Doors" class="category-link-card">Windows &amp; Doors</a>
-          <a href="directory.html?category=One-Stop-Shop+Retrofit+Contractors" class="category-link-card">One-Stop-Shop</a>
+          <span class="category-link-card coming-soon">BER Assessors</span>
+          <span class="category-link-card coming-soon">Solar PV</span>
+          <span class="category-link-card coming-soon">Airtightness Testing</span>
+          <span class="category-link-card coming-soon">MVHR / Ventilation</span>
+          <span class="category-link-card coming-soon">One-Stop-Shop</span>
         </div>
       </div>
     </section>
@@ -229,7 +229,7 @@
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; 2025 RetrofitList.ie. All rights reserved.</p>
+        <p>&copy; 2026 RetrofitList.ie. All rights reserved.</p>
         <p>Not affiliated with SEAI. Always verify contractor registrations at <a href="https://www.seai.ie" target="_blank" rel="noopener">seai.ie</a>.</p>
       </div>
     </div>
@@ -261,6 +261,22 @@
       color: var(--green);
       transform: translateY(-2px);
       box-shadow: var(--shadow);
+    }
+    .category-link-card.coming-soon {
+      position: relative;
+      opacity: 0.5;
+      cursor: default;
+      pointer-events: none;
+    }
+    .category-link-card.coming-soon::after {
+      content: 'Coming soon';
+      display: block;
+      font-size: 0.7rem;
+      font-weight: 500;
+      color: var(--slate-lighter);
+      margin-top: 0.25rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
     }
   </style>
 
