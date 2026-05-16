@@ -147,6 +147,7 @@ Required for any Irish/EU website, especially one collecting contact details via
 ## 🚀 9. Launch & Growth
 
 ### Before going public
+- [ ] **Remove `noindex` / `nofollow`** — delete `<meta name="robots" content="noindex, nofollow">` from all 5 HTML files (index, directory, news, about, article) and change `robots.txt` from `Disallow: /` to `Allow: /`
 - [ ] Remove all fictional/placeholder providers from `providers.json`
 - [ ] Remove all sample articles that have not been verified for accuracy
 - [ ] Do a final proofread of all static page copy (about.html especially)
