@@ -1,0 +1,267 @@
+﻿<!DOCTYPE html>
+<html lang="en-IE">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Retrofit Ireland — Home Retrofit Directory &amp; Contractor Finder | RetrofitList.ie</title>
+  <meta name="description" content="Find trusted retrofit contractors across Ireland. BER assessors, insulation, heat pumps, solar PV and more — plus SEAI grant guides and how-tos. Ireland's retrofit directory.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%231a5c38'/><text y='75' x='50' text-anchor='middle' font-size='62' font-family='sans-serif'>🏠</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="home">
+
+  <!-- ===== HEADER ===== -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <a href="index.html" class="site-logo" aria-label="RetrofitList.ie home">
+          <div class="logo-icon" aria-hidden="true">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+              <path d="M4 11.5L12 4l8 7.5V21H4V11.5z" fill="white" fill-opacity="0.2" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+              <path d="M9 21v-5.5h6V21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="18.5" cy="5.5" r="3" fill="#e8a020"/>
+            </svg>
+          </div>
+          <div class="logo-text">
+            <span class="logo-name">RetrofitList.ie</span>
+            <span class="logo-tagline">Ireland's Retrofit Directory</span>
+          </div>
+        </a>
+
+        <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+
+        <nav class="nav-menu" aria-label="Main navigation">
+          <a href="index.html">Home</a>
+          <a href="directory.html">Directory</a>
+          <a href="news.html">News &amp; Guides</a>
+          <a href="about.html">About</a>
+          <a href="about.html#list-your-business" class="btn btn-amber btn-sm">List Your Business</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- ===== HERO ===== -->
+    <section class="hero hero-home">
+      <div class="container">
+        <div class="hero-content">
+          <span class="hero-badge">🇮🇪 Ireland's Retrofit Resource</span>
+          <h1 class="hero-title">Find Trusted <em>Retrofit Professionals</em> Across Ireland</h1>
+          <p class="hero-subtitle">Search our directory of BER assessors, insulation contractors, heat pump installers, solar companies, and more — all in one place.</p>
+          <div class="hero-search" role="search">
+            <label for="hero-search-input" class="sr-only">Search providers</label>
+            <input type="search" id="hero-search-input" placeholder="Search by company, county, or service…" autocomplete="off">
+            <button id="hero-search-btn" type="button">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+              Search
+            </button>
+          </div>
+          <div class="hero-stats">
+            <div class="hero-stat">
+              <span class="hero-stat-number">14+</span>
+              <span class="hero-stat-label">Listed Providers</span>
+            </div>
+            <div class="hero-stat">
+              <span class="hero-stat-number">10</span>
+              <span class="hero-stat-label">Service Categories</span>
+            </div>
+            <div class="hero-stat">
+              <span class="hero-stat-number">26</span>
+              <span class="hero-stat-label">Counties Covered</span>
+            </div>
+            <div class="hero-stat">
+              <span class="hero-stat-number">Free</span>
+              <span class="hero-stat-label">To Search &amp; Browse</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== STATS BAR ===== -->
+    <section class="stats-bar" aria-label="Site highlights">
+      <div class="container">
+        <div class="stats-grid">
+          <div>
+            <span class="stat-number">€25k</span>
+            <div class="stat-label">Max SEAI Grant Available</div>
+          </div>
+          <div>
+            <span class="stat-number">B2</span>
+            <div class="stat-label">Target BER for Deep Retrofit</div>
+          </div>
+          <div>
+            <span class="stat-number">40%+</span>
+            <div class="stat-label">Avg. Heating Bill Saving</div>
+          </div>
+          <div>
+            <span class="stat-number">2030</span>
+            <div class="stat-label">Govt. Retrofit Target Year</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURED PROVIDERS ===== -->
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Featured <span>Providers</span></h2>
+          <a href="directory.html" class="btn btn-secondary btn-sm">View all providers</a>
+        </div>
+        <div class="card-grid" id="featured-providers" data-loading="true">
+          <div class="loading-state" style="grid-column:1/-1">
+            <div class="loading-spinner"></div>
+            <p class="text-light">Loading providers…</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== CATEGORY LINKS ===== -->
+    <section style="padding: 0 0 4rem;">
+      <div class="container">
+        <h2 class="section-title text-center" style="margin-bottom: 2rem;">Browse by <span>Service</span></h2>
+        <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.875rem;">
+          <a href="directory.html?category=BER+Assessors" class="category-link-card">BER Assessors</a>
+          <a href="directory.html?category=External+Wall+Insulation" class="category-link-card">External Wall Insulation</a>
+          <a href="directory.html?category=Internal+Wall+Insulation" class="category-link-card">Internal Wall Insulation</a>
+          <a href="directory.html?category=Attic+%26+Floor+Insulation" class="category-link-card">Attic &amp; Floor Insulation</a>
+          <a href="directory.html?category=Heat+Pumps" class="category-link-card">Heat Pumps</a>
+          <a href="directory.html?category=Solar+PV" class="category-link-card">Solar PV</a>
+          <a href="directory.html?category=Airtightness+Testing" class="category-link-card">Airtightness Testing</a>
+          <a href="directory.html?category=MVHR+%2F+Ventilation" class="category-link-card">MVHR / Ventilation</a>
+          <a href="directory.html?category=Windows+%26+Doors" class="category-link-card">Windows &amp; Doors</a>
+          <a href="directory.html?category=One-Stop-Shop+Retrofit+Contractors" class="category-link-card">One-Stop-Shop</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== LATEST NEWS ===== -->
+    <section class="section" style="background: var(--white); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Latest <span>News &amp; Guides</span></h2>
+          <a href="news.html" class="btn btn-secondary btn-sm">View all articles</a>
+        </div>
+        <div class="card-grid" id="latest-news" data-loading="true">
+          <div class="loading-state" style="grid-column:1/-1">
+            <div class="loading-spinner"></div>
+            <p class="text-light">Loading articles…</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== CTA ===== -->
+    <section class="cta-banner">
+      <div class="container">
+        <h2>Are You a Retrofit Professional?</h2>
+        <p>Get your business listed in front of thousands of Irish homeowners searching for retrofit services every month.</p>
+        <div class="cta-buttons">
+          <a href="about.html#list-your-business" class="btn btn-amber btn-lg">List Your Business</a>
+          <a href="about.html" class="btn btn-ghost btn-lg">Learn More</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="site-logo" aria-label="RetrofitList.ie home">
+            <div class="logo-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+                <path d="M4 11.5L12 4l8 7.5V21H4V11.5z" fill="white" fill-opacity="0.2" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+                <path d="M9 21v-5.5h6V21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                <circle cx="18.5" cy="5.5" r="3" fill="#e8a020"/>
+              </svg>
+            </div>
+            <div class="logo-text">
+              <span class="logo-name">RetrofitList.ie</span>
+              <span class="logo-tagline">Ireland's Retrofit Directory</span>
+            </div>
+          </a>
+          <p class="footer-desc">Ireland's home retrofit directory and news hub. Connecting homeowners with trusted energy upgrade professionals across all 26 counties.</p>
+        </div>
+
+        <div>
+          <p class="footer-heading">Directory</p>
+          <ul class="footer-links">
+            <li><a href="directory.html">All Providers</a></li>
+            <li><a href="directory.html?category=BER+Assessors">BER Assessors</a></li>
+            <li><a href="directory.html?category=Heat+Pumps">Heat Pumps</a></li>
+            <li><a href="directory.html?category=Solar+PV">Solar PV</a></li>
+            <li><a href="directory.html?category=One-Stop-Shop+Retrofit+Contractors">One-Stop-Shop</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <p class="footer-heading">News &amp; Guides</p>
+          <ul class="footer-links">
+            <li><a href="news.html">All Articles</a></li>
+            <li><a href="news.html?category=SEAI+Grants">SEAI Grants</a></li>
+            <li><a href="news.html?category=How-To+Guides">How-To Guides</a></li>
+            <li><a href="news.html?category=Local+Authority+Grants">Local Auth Grants</a></li>
+            <li><a href="news.html?category=Market+News">Market News</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <p class="footer-heading">About</p>
+          <ul class="footer-links">
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="about.html#list-your-business">List Your Business</a></li>
+            <li><a href="about.html#contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2025 RetrofitList.ie. All rights reserved.</p>
+        <p>Not affiliated with SEAI. Always verify contractor registrations at <a href="https://www.seai.ie" target="_blank" rel="noopener">seai.ie</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+
+  <!-- Category link card styles (used only on homepage) -->
+  <style>
+    .category-link-card {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 1rem;
+      background: var(--white);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--slate);
+      text-decoration: none;
+      transition: all var(--transition);
+      line-height: 1.3;
+    }
+    .category-link-card:hover {
+      border-color: var(--green);
+      background: rgba(26,92,56,0.04);
+      color: var(--green);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+    }
+  </style>
+
+</body>
+</html>

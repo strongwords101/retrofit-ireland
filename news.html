@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html lang="en-IE">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Retrofit Ireland — SEAI Grants, How-To Guides &amp; News | RetrofitList.ie</title>
+  <meta name="description" content="The latest retrofit Ireland news — SEAI grant updates, local authority schemes, insulation guides, heat pump advice, planning regulations and market news.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%231a5c38'/><text y='75' x='50' text-anchor='middle' font-size='62' font-family='sans-serif'>🏠</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="news">
+
+  <!-- ===== HEADER ===== -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <a href="index.html" class="site-logo" aria-label="RetrofitList.ie home">
+          <div class="logo-icon" aria-hidden="true">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+              <path d="M4 11.5L12 4l8 7.5V21H4V11.5z" fill="white" fill-opacity="0.2" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+              <path d="M9 21v-5.5h6V21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="18.5" cy="5.5" r="3" fill="#e8a020"/>
+            </svg>
+          </div>
+          <div class="logo-text">
+            <span class="logo-name">RetrofitList.ie</span>
+            <span class="logo-tagline">Ireland's Retrofit Directory</span>
+          </div>
+        </a>
+
+        <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+
+        <nav class="nav-menu" aria-label="Main navigation">
+          <a href="index.html">Home</a>
+          <a href="directory.html">Directory</a>
+          <a href="news.html">News &amp; Guides</a>
+          <a href="about.html">About</a>
+          <a href="about.html#list-your-business" class="btn btn-amber btn-sm">List Your Business</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- ===== HERO ===== -->
+    <section class="hero hero-sm">
+      <div class="container">
+        <div class="hero-content">
+          <h1 class="hero-title">News &amp; Guides</h1>
+          <p class="hero-subtitle">SEAI grant updates, local authority schemes, how-to guides, planning advice, and market news — all in one place.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== NEWS CONTENT ===== -->
+    <section class="section">
+      <div class="container">
+
+        <!-- Category filter pills -->
+        <div class="category-filter" role="group" aria-label="Filter articles by category">
+          <button class="cat-filter-btn active" data-category="" type="button">All</button>
+          <button class="cat-filter-btn" data-category="SEAI Grants" type="button">SEAI Grants</button>
+          <button class="cat-filter-btn" data-category="Local Authority Grants" type="button">Local Authority Grants</button>
+          <button class="cat-filter-btn" data-category="How-To Guides" type="button">How-To Guides</button>
+          <button class="cat-filter-btn" data-category="Planning & Regulations" type="button">Planning &amp; Regulations</button>
+          <button class="cat-filter-btn" data-category="Market News" type="button">Market News</button>
+        </div>
+
+        <!-- Articles grid -->
+        <div class="card-grid" id="articles-grid" data-loading="true">
+          <div class="loading-state" style="grid-column:1/-1">
+            <div class="loading-spinner"></div>
+            <p class="text-light">Loading articles…</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="site-logo" aria-label="RetrofitList.ie home">
+            <div class="logo-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+                <path d="M4 11.5L12 4l8 7.5V21H4V11.5z" fill="white" fill-opacity="0.2" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+                <path d="M9 21v-5.5h6V21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                <circle cx="18.5" cy="5.5" r="3" fill="#e8a020"/>
+              </svg>
+            </div>
+            <div class="logo-text">
+              <span class="logo-name">RetrofitList.ie</span>
+              <span class="logo-tagline">Ireland's Retrofit Directory</span>
+            </div>
+          </a>
+          <p class="footer-desc">Ireland's home retrofit directory and news hub. Connecting homeowners with trusted energy upgrade professionals across all 26 counties.</p>
+        </div>
+
+        <div>
+          <p class="footer-heading">Directory</p>
+          <ul class="footer-links">
+            <li><a href="directory.html">All Providers</a></li>
+            <li><a href="directory.html?category=BER+Assessors">BER Assessors</a></li>
+            <li><a href="directory.html?category=Heat+Pumps">Heat Pumps</a></li>
+            <li><a href="directory.html?category=Solar+PV">Solar PV</a></li>
+            <li><a href="directory.html?category=One-Stop-Shop+Retrofit+Contractors">One-Stop-Shop</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <p class="footer-heading">News &amp; Guides</p>
+          <ul class="footer-links">
+            <li><a href="news.html">All Articles</a></li>
+            <li><a href="news.html?category=SEAI+Grants">SEAI Grants</a></li>
+            <li><a href="news.html?category=How-To+Guides">How-To Guides</a></li>
+            <li><a href="news.html?category=Local+Authority+Grants">Local Auth Grants</a></li>
+            <li><a href="news.html?category=Market+News">Market News</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <p class="footer-heading">About</p>
+          <ul class="footer-links">
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="about.html#list-your-business">List Your Business</a></li>
+            <li><a href="about.html#contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2025 RetrofitList.ie. All rights reserved.</p>
+        <p>Not affiliated with SEAI. Always verify contractor registrations at <a href="https://www.seai.ie" target="_blank" rel="noopener">seai.ie</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

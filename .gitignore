@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+scraper/scrape_log.txt
+.DS_Store
+Thumbs.db
