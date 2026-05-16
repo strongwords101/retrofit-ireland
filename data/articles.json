@@ -7,63 +7,233 @@
     "author": "RetrofitList.ie Editorial Team",
     "summary": "Updated for 2026 — every SEAI grant, the exact amounts by house type, who qualifies, and a step-by-step guide to applying. Includes the new heat pump grant of up to €12,500 and recent increases to attic and cavity wall grants.",
     "body": [
-      {"type": "p", "text": "SEAI home energy grants are among the most generous residential energy subsidies in Europe — and in 2026, the amounts increased significantly. If you've been putting off a retrofit because of the cost, the numbers have shifted considerably in your favour. This guide covers every available grant, updated to reflect the February and March 2026 changes announced by [SEAI](https://www.seai.ie/grants/home-energy-grants/individual-grants)."},
-      {"type": "callout", "text": "Updated February 2026: Heat pump grants increased to a maximum of €12,500. Attic insulation grants increased to €2,000 for detached homes. Cavity wall grants also increased. From 2 March 2026, homeowners can apply for a grant for two wall measures in the same application."},
-      {"type": "h2", "text": "2026 Grant Amounts: Full Table by Measure and House Type"},
-      {"type": "p", "text": "All grants below are through the [Better Energy Homes scheme](https://www.seai.ie/grants/home-energy-grants/individual-grants). Amounts vary by house type — detached homes with more surface area typically receive higher grants."},
-      {"type": "table", "headers": ["Measure", "Detached", "Semi-D / End Terrace", "Mid Terrace", "Apartment"], "rows": [
-        ["Attic Insulation", "€2,000", "€1,300", "€1,200", "€800"],
-        ["Cavity Wall Insulation", "€1,800", "€1,200", "€800", "€700"],
-        ["Internal Wall Insulation", "€4,500", "€3,500", "€2,000", "€1,500"],
-        ["External Wall Insulation", "€8,000", "€6,000", "€4,000", "€3,500"],
-        ["Heat Pump System (full)", "€12,500", "€12,500", "€12,500", "€12,500"],
-        ["Solar PV (up to 6kWp)", "€1,800", "€1,800", "€1,800", "€1,800"],
-        ["Windows (per upgrade)", "Up to €4,000", "Up to €4,000", "Up to €4,000", "Up to €4,000"],
-        ["Doors (per upgrade)", "Up to €1,600", "Up to €1,600", "Up to €1,600", "Up to €1,600"],
-        ["Mechanical Ventilation", "€1,500", "€1,500", "€1,500", "€1,500"],
-        ["Air Tightness Testing", "€1,000", "€1,000", "€1,000", "€1,000"],
-        ["Heating Controls Upgrade", "€700", "€700", "€700", "€700"]
-      ]},
-      {"type": "callout", "text": "The heat pump grant breakdown: €6,500 for the heat pump unit, €2,000 for upgrading radiators and pipework, and a new €4,000 renewable heating bonus — total €12,500. This is the single largest individual home energy grant available in Ireland."},
-      {"type": "h2", "text": "Who Qualifies?"},
-      {"type": "p", "text": "To qualify for SEAI Better Energy Homes grants your property must meet all of the following:"},
-      {"type": "ul", "items": [
-        "The home was built and occupied before 2011",
-        "You own and live in the property as your principal private residence",
-        "The work has not already started — you must apply and receive approval before work begins",
-        "You use an [SEAI-registered contractor](https://www.seai.ie/find-grants-and-contractors/find-contractors/) for all works",
-        "The property is not a new build or a rental property (separate schemes exist for landlords)"
-      ]},
-      {"type": "p", "text": "Properties built after 2010 generally already meet modern energy standards and are not eligible. Rental properties may qualify under the [Residential Retrofit Scheme](https://www.seai.ie/grants/rental-property-grants/) — contact SEAI for details."},
-      {"type": "h2", "text": "Enhanced Grants for Lower-Income Households"},
-      {"type": "p", "text": "From March 2026, homeowners on qualifying welfare payments (including Fuel Allowance, Working Family Payment, and Carer's Allowance) qualify for higher grant rates. The [fully funded Warmer Homes Scheme](https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/) provides free energy upgrades to households on certain means-tested payments — no cost at all to the homeowner."},
-      {"type": "table", "headers": ["Scheme", "Who It's For", "What's Covered", "Cost to Homeowner"], "rows": [
-        ["Better Energy Homes", "All homeowners (pre-2011 homes)", "Partial grants on specific measures", "Balance after grant"],
-        ["Enhanced Individual Grants", "Welfare payment recipients", "Higher grant rates (attic, cavity wall)", "Reduced balance"],
-        ["[Warmer Homes Scheme](https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/)", "Low-income households (means tested)", "Full retrofit package", "Free"]
-      ]},
-      {"type": "h2", "text": "Step-by-Step: How to Apply"},
-      {"type": "ol", "items": [
-        "Check eligibility — confirm your home was built before 2011 and you own and occupy it",
-        "Choose your measures — decide which upgrades you want based on your home's needs and BER rating",
-        "Find an SEAI registered contractor — use the RetrofitList.ie directory or [SEAI's contractor search](https://www.seai.ie/find-grants-and-contractors/find-contractors/)",
-        "Get at least three quotes — compare on price, timeline, and the contractor's SEAI registration status",
-        "Apply for your grant at [seai.ie](https://www.seai.ie/grants/home-energy-grants/individual-grants) BEFORE work begins — you will receive a grant approval reference number",
-        "Have the works completed by your registered contractor",
-        "Submit completion documents — your contractor will typically handle this",
-        "SEAI pays the grant — directly to your bank account, usually within 4–6 weeks of completion"
-      ]},
-      {"type": "callout", "text": "Important: You must apply for and receive grant approval BEFORE work begins. Grants cannot be applied for retrospectively. Any work carried out before grant approval is ineligible."},
-      {"type": "h2", "text": "Can You Combine Grants?"},
-      {"type": "p", "text": "Yes — and it's encouraged. You can apply for multiple measures in a single application. From March 2026, you can also apply for two different wall insulation measures. If you are planning a whole-home deep retrofit targeting a B2 BER or better, consider using an [SEAI-approved One-Stop-Shop provider](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/) instead. The One-Stop-Shop route has higher maximum grant levels and the provider manages all paperwork on your behalf."},
-      {"type": "cta", "text": "Find SEAI-registered contractors near you", "href": "directory.html"},
-      {"type": "sources", "items": [
-        {"text": "SEAI: Individual Energy Upgrade Grants — full grant amounts", "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants"},
-        {"text": "SEAI: Warmer Homes Scheme (fully funded upgrades)", "href": "https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/"},
-        {"text": "SEAI: One-Stop-Shop retrofit grants", "href": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/"},
-        {"text": "Citizens Information: Better Energy Homes scheme explained", "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/better-energy-homes-scheme/"},
-        {"text": "SEAI: Find a registered contractor", "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/"}
-      ]}
+      {
+        "type": "p",
+        "text": "SEAI home energy grants are among the most generous residential energy subsidies in Europe — and in 2026, the amounts increased significantly. If you've been putting off a retrofit because of the cost, the numbers have shifted considerably in your favour. This guide covers every available grant, updated to reflect the February and March 2026 changes announced by [SEAI](https://www.seai.ie/grants/home-energy-grants/individual-grants)."
+      },
+      {
+        "type": "callout",
+        "text": "Updated February 2026: Heat pump grants increased to a maximum of €12,500. Attic insulation grants increased to €2,000 for detached homes. Cavity wall grants also increased. From 2 March 2026, homeowners can apply for a grant for two wall measures in the same application."
+      },
+      {
+        "type": "h2",
+        "text": "2026 Grant Amounts: Full Table by Measure and House Type"
+      },
+      {
+        "type": "p",
+        "text": "All grants below are through the [Better Energy Homes scheme](https://www.seai.ie/grants/home-energy-grants/individual-grants). Amounts vary by house type — detached homes with more surface area typically receive higher grants."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Measure",
+          "Detached",
+          "Semi-D / End Terrace",
+          "Mid Terrace",
+          "Apartment"
+        ],
+        "rows": [
+          [
+            "Attic Insulation",
+            "€2,000",
+            "€1,300",
+            "€1,200",
+            "€800"
+          ],
+          [
+            "Cavity Wall Insulation",
+            "€1,800",
+            "€1,200",
+            "€800",
+            "€700"
+          ],
+          [
+            "Internal Wall Insulation",
+            "€4,500",
+            "€3,500",
+            "€2,000",
+            "€1,500"
+          ],
+          [
+            "External Wall Insulation",
+            "€8,000",
+            "€6,000",
+            "€4,000",
+            "€3,500"
+          ],
+          [
+            "Heat Pump System (full)",
+            "€12,500",
+            "€12,500",
+            "€12,500",
+            "€12,500"
+          ],
+          [
+            "Solar PV (up to 6kWp)",
+            "€1,800",
+            "€1,800",
+            "€1,800",
+            "€1,800"
+          ],
+          [
+            "Windows (per upgrade)",
+            "Up to €4,000",
+            "Up to €4,000",
+            "Up to €4,000",
+            "Up to €4,000"
+          ],
+          [
+            "Doors (per upgrade)",
+            "Up to €1,600",
+            "Up to €1,600",
+            "Up to €1,600",
+            "Up to €1,600"
+          ],
+          [
+            "Mechanical Ventilation",
+            "€1,500",
+            "€1,500",
+            "€1,500",
+            "€1,500"
+          ],
+          [
+            "Air Tightness Testing",
+            "€1,000",
+            "€1,000",
+            "€1,000",
+            "€1,000"
+          ],
+          [
+            "Heating Controls Upgrade",
+            "€700",
+            "€700",
+            "€700",
+            "€700"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "The heat pump grant breakdown: €6,500 for the heat pump unit, €2,000 for upgrading radiators and pipework, and a new €4,000 renewable heating bonus — total €12,500. This is the single largest individual home energy grant available in Ireland."
+      },
+      {
+        "type": "h2",
+        "text": "Who Qualifies?"
+      },
+      {
+        "type": "p",
+        "text": "To qualify for SEAI Better Energy Homes grants your property must meet all of the following:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The home was built and occupied before 2011",
+          "You own and live in the property as your principal private residence",
+          "The work has not already started — you must apply and receive approval before work begins",
+          "You use an [SEAI-registered contractor](https://www.seai.ie/find-grants-and-contractors/find-contractors/) for all works",
+          "The property is not a new build or a rental property (separate schemes exist for landlords)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Properties built after 2010 generally already meet modern energy standards and are not eligible. Rental properties may qualify under the [Residential Retrofit Scheme](https://www.seai.ie/grants/rental-property-grants/) — contact SEAI for details."
+      },
+      {
+        "type": "h2",
+        "text": "Enhanced Grants for Lower-Income Households"
+      },
+      {
+        "type": "p",
+        "text": "From March 2026, homeowners on qualifying welfare payments (including Fuel Allowance, Working Family Payment, and Carer's Allowance) qualify for higher grant rates. The [fully funded Warmer Homes Scheme](https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/) provides free energy upgrades to households on certain means-tested payments — no cost at all to the homeowner."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Scheme",
+          "Who It's For",
+          "What's Covered",
+          "Cost to Homeowner"
+        ],
+        "rows": [
+          [
+            "Better Energy Homes",
+            "All homeowners (pre-2011 homes)",
+            "Partial grants on specific measures",
+            "Balance after grant"
+          ],
+          [
+            "Enhanced Individual Grants",
+            "Welfare payment recipients",
+            "Higher grant rates (attic, cavity wall)",
+            "Reduced balance"
+          ],
+          [
+            "[Warmer Homes Scheme](https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/)",
+            "Low-income households (means tested)",
+            "Full retrofit package",
+            "Free"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Step-by-Step: How to Apply"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Check eligibility — confirm your home was built before 2011 and you own and occupy it",
+          "Choose your measures — decide which upgrades you want based on your home's needs and BER rating",
+          "Find an SEAI registered contractor — use the RetrofitList.ie directory or [SEAI's contractor search](https://www.seai.ie/find-grants-and-contractors/find-contractors/)",
+          "Get at least three quotes — compare on price, timeline, and the contractor's SEAI registration status",
+          "Apply for your grant at [seai.ie](https://www.seai.ie/grants/home-energy-grants/individual-grants) BEFORE work begins — you will receive a grant approval reference number",
+          "Have the works completed by your registered contractor",
+          "Submit completion documents — your contractor will typically handle this",
+          "SEAI pays the grant — directly to your bank account, usually within 4–6 weeks of completion"
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Important: You must apply for and receive grant approval BEFORE work begins. Grants cannot be applied for retrospectively. Any work carried out before grant approval is ineligible."
+      },
+      {
+        "type": "h2",
+        "text": "Can You Combine Grants?"
+      },
+      {
+        "type": "p",
+        "text": "Yes — and it's encouraged. You can apply for multiple measures in a single application. From March 2026, you can also apply for two different wall insulation measures. If you are planning a whole-home deep retrofit targeting a B2 BER or better, consider using an [SEAI-approved One-Stop-Shop provider](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/) instead. The One-Stop-Shop route has higher maximum grant levels and the provider manages all paperwork on your behalf."
+      },
+      {
+        "type": "cta",
+        "text": "Find SEAI-registered contractors near you",
+        "href": "directory.html"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: Individual Energy Upgrade Grants — full grant amounts",
+            "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants"
+          },
+          {
+            "text": "SEAI: Warmer Homes Scheme (fully funded upgrades)",
+            "href": "https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/"
+          },
+          {
+            "text": "SEAI: One-Stop-Shop retrofit grants",
+            "href": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/"
+          },
+          {
+            "text": "Citizens Information: Better Energy Homes scheme explained",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/better-energy-homes-scheme/"
+          },
+          {
+            "text": "SEAI: Find a registered contractor",
+            "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -74,62 +244,216 @@
     "author": "RetrofitList.ie Editorial Team",
     "summary": "Everything you need to know about attic insulation in Ireland — what type to use, how thick it should be, what a good installation looks like, how much it costs, and how to claim your SEAI grant of up to €2,000.",
     "body": [
-      {"type": "p", "text": "Attic insulation is the single most cost-effective energy upgrade available to Irish homeowners. Up to 25% of heat loss in a typical Irish home escapes through an uninsulated or poorly insulated roof — and fixing it costs less than almost any other measure. With [SEAI grants of up to €2,000](https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/) and typical installation costs of €800–€2,000, many homeowners break even within 2–3 years."},
-      {"type": "h2", "text": "How Much Heat Are You Losing?"},
-      {"type": "p", "text": "The exact amount depends on your home's age and current insulation levels. Homes built before 1980 often have no attic insulation at all, or thin, degraded material installed in the 1980s that no longer meets current standards. Homes built between 1980 and 2005 typically have 100mm of mineral wool — half the current recommended depth."},
-      {"type": "table", "headers": ["Home Age", "Likely Existing Insulation", "Annual Heat Loss (approx)", "Priority"], "rows": [
-        ["Pre-1980", "None or minimal", "Very high", "Urgent"],
-        ["1980–2000", "~100mm mineral wool", "Moderate-high", "High"],
-        ["2000–2010", "~150–200mm", "Moderate", "Medium"],
-        ["Post-2010", "300mm+", "Low", "Low priority"]
-      ]},
-      {"type": "h2", "text": "What Type of Insulation Is Used?"},
-      {"type": "p", "text": "The vast majority of attic insulation in Irish homes uses mineral wool — either glass wool (softer, yellow) or rock wool (denser, grey-brown). Both perform similarly. They are laid between the joists and then over the top in a second layer, which is the key to achieving full coverage."},
-      {"type": "h2", "text": "How Thick Does It Need to Be?"},
-      {"type": "p", "text": "Current Irish building regulations ([Part L — Conservation of Fuel and Energy](https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/)) require a minimum of 300mm total depth for attic insulation retrofits, achieving a U-value of 0.16 W/m²K or better. Most professionals recommend going to 400mm — the marginal cost difference is small and the additional performance is meaningful."},
-      {"type": "table", "headers": ["Depth", "U-value (approx)", "Regulatory Status", "Recommendation"], "rows": [
-        ["150mm", "~0.30 W/m²K", "Below minimum", "Not acceptable for new installations"],
-        ["200mm", "~0.22 W/m²K", "Below minimum", "Not acceptable for new installations"],
-        ["300mm", "~0.16 W/m²K", "Compliant minimum", "Acceptable"],
-        ["400mm", "~0.11 W/m²K", "Above minimum", "Recommended"]
-      ]},
-      {"type": "h2", "text": "What Should a Good Installation Include?"},
-      {"type": "ul", "items": [
-        "Roof inspection for leaks, damaged timbers, and signs of dampness",
-        "Inspection for existing pest infestation (rodents, insects)",
-        "Checking that all electrical wiring in the attic is safely routed",
-        "Ensuring adequate roof ventilation will be maintained after insulation",
-        "Insulating the attic hatch door (this is a significant cold spot if missed)",
-        "Insulating around but not under the cold water tank (it needs warmth to prevent freezing)",
-        "Lagging all exposed water pipes",
-        "Installing a vapour control layer where required"
-      ]},
-      {"type": "callout", "text": "Red flag: if a contractor does not inspect the attic before quoting, or does not mention the attic hatch and water tank in their specification, look elsewhere. A thorough pre-installation check is the mark of a professional installation."},
-      {"type": "h2", "text": "What About Attic Storage?"},
-      {"type": "p", "text": "Many homeowners use their attic for storage, which creates a challenge — you need 300–400mm of insulation depth, but you also need to walk on the floor. The solution is a raised boarding system: a specialist framework that sits on top of the joists and insulation, allowing full insulation depth while preserving usable storage space. Expect to pay €300–€600 extra for this, depending on the area being boarded."},
-      {"type": "h2", "text": "How Much Does It Cost?"},
-      {"type": "table", "headers": ["House Type", "Typical Cost (inc. VAT)", "SEAI Grant 2026", "Net Cost After Grant"], "rows": [
-        ["Detached (large attic)", "€1,400–€2,000", "€2,000", "€0–€400 (may be free)"],
-        ["Semi-detached", "€900–€1,400", "€1,300", "€0–€400"],
-        ["Mid-terrace", "€700–€1,100", "€1,200", "€0–€100 (often free)"],
-        ["Apartment / top floor", "€600–€900", "€800", "€0–€100"]
-      ]},
-      {"type": "p", "text": "For many house types, the SEAI grant now covers the full cost of a standard installation. Always get a minimum of three quotes before committing, and verify each contractor's current registration on the [SEAI contractor register](https://www.seai.ie/find-grants-and-contractors/find-contractors/)."},
-      {"type": "h2", "text": "How to Claim the SEAI Grant"},
-      {"type": "ol", "items": [
-        "Apply online at [seai.ie](https://www.seai.ie/grants/home-energy-grants/individual-grants) before any work begins — you must have grant approval first",
-        "Receive your grant approval reference number (usually within a few days)",
-        "Engage your SEAI-registered contractor and have the work carried out",
-        "Your contractor submits the completion certificate and supporting documentation to SEAI",
-        "SEAI pays the grant directly to your bank account — typically within 4–6 weeks"
-      ]},
-      {"type": "cta", "text": "Find attic insulation contractors near you", "href": "directory.html?category=Attic+%26+Floor+Insulation"},
-      {"type": "sources", "items": [
-        {"text": "SEAI: Insulation grants — amounts and eligibility", "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/"},
-        {"text": "SEAI: Apply for a home energy grant", "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants"},
-        {"text": "Gov.ie: Part L Building Regulations — Conservation of Fuel and Energy", "href": "https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/"},
-        {"text": "Citizens Information: Home energy upgrades and grants", "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/better-energy-homes-scheme/"}
-      ]}
+      {
+        "type": "p",
+        "text": "Attic insulation is the single most cost-effective energy upgrade available to Irish homeowners. Up to 25% of heat loss in a typical Irish home escapes through an uninsulated or poorly insulated roof — and fixing it costs less than almost any other measure. With [SEAI grants of up to €2,000](https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/) and typical installation costs of €800–€2,000, many homeowners break even within 2–3 years."
+      },
+      {
+        "type": "h2",
+        "text": "How Much Heat Are You Losing?"
+      },
+      {
+        "type": "p",
+        "text": "The exact amount depends on your home's age and current insulation levels. Homes built before 1980 often have no attic insulation at all, or thin, degraded material installed in the 1980s that no longer meets current standards. Homes built between 1980 and 2005 typically have 100mm of mineral wool — half the current recommended depth."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Home Age",
+          "Likely Existing Insulation",
+          "Annual Heat Loss (approx)",
+          "Priority"
+        ],
+        "rows": [
+          [
+            "Pre-1980",
+            "None or minimal",
+            "Very high",
+            "Urgent"
+          ],
+          [
+            "1980–2000",
+            "~100mm mineral wool",
+            "Moderate-high",
+            "High"
+          ],
+          [
+            "2000–2010",
+            "~150–200mm",
+            "Moderate",
+            "Medium"
+          ],
+          [
+            "Post-2010",
+            "300mm+",
+            "Low",
+            "Low priority"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What Type of Insulation Is Used?"
+      },
+      {
+        "type": "p",
+        "text": "The vast majority of attic insulation in Irish homes uses mineral wool — either glass wool (softer, yellow) or rock wool (denser, grey-brown). Both perform similarly. They are laid between the joists and then over the top in a second layer, which is the key to achieving full coverage."
+      },
+      {
+        "type": "h2",
+        "text": "How Thick Does It Need to Be?"
+      },
+      {
+        "type": "p",
+        "text": "Current Irish building regulations ([Part L — Conservation of Fuel and Energy](https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/)) require a minimum of 300mm total depth for attic insulation retrofits, achieving a U-value of 0.16 W/m²K or better. Most professionals recommend going to 400mm — the marginal cost difference is small and the additional performance is meaningful."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Depth",
+          "U-value (approx)",
+          "Regulatory Status",
+          "Recommendation"
+        ],
+        "rows": [
+          [
+            "150mm",
+            "~0.30 W/m²K",
+            "Below minimum",
+            "Not acceptable for new installations"
+          ],
+          [
+            "200mm",
+            "~0.22 W/m²K",
+            "Below minimum",
+            "Not acceptable for new installations"
+          ],
+          [
+            "300mm",
+            "~0.16 W/m²K",
+            "Compliant minimum",
+            "Acceptable"
+          ],
+          [
+            "400mm",
+            "~0.11 W/m²K",
+            "Above minimum",
+            "Recommended"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What Should a Good Installation Include?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Roof inspection for leaks, damaged timbers, and signs of dampness",
+          "Inspection for existing pest infestation (rodents, insects)",
+          "Checking that all electrical wiring in the attic is safely routed",
+          "Ensuring adequate roof ventilation will be maintained after insulation",
+          "Insulating the attic hatch door (this is a significant cold spot if missed)",
+          "Insulating around but not under the cold water tank (it needs warmth to prevent freezing)",
+          "Lagging all exposed water pipes",
+          "Installing a vapour control layer where required"
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Red flag: if a contractor does not inspect the attic before quoting, or does not mention the attic hatch and water tank in their specification, look elsewhere. A thorough pre-installation check is the mark of a professional installation."
+      },
+      {
+        "type": "h2",
+        "text": "What About Attic Storage?"
+      },
+      {
+        "type": "p",
+        "text": "Many homeowners use their attic for storage, which creates a challenge — you need 300–400mm of insulation depth, but you also need to walk on the floor. The solution is a raised boarding system: a specialist framework that sits on top of the joists and insulation, allowing full insulation depth while preserving usable storage space. Expect to pay €300–€600 extra for this, depending on the area being boarded."
+      },
+      {
+        "type": "h2",
+        "text": "How Much Does It Cost?"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "House Type",
+          "Typical Cost (inc. VAT)",
+          "SEAI Grant 2026",
+          "Net Cost After Grant"
+        ],
+        "rows": [
+          [
+            "Detached (large attic)",
+            "€1,400–€2,000",
+            "€2,000",
+            "€0–€400 (may be free)"
+          ],
+          [
+            "Semi-detached",
+            "€900–€1,400",
+            "€1,300",
+            "€0–€400"
+          ],
+          [
+            "Mid-terrace",
+            "€700–€1,100",
+            "€1,200",
+            "€0–€100 (often free)"
+          ],
+          [
+            "Apartment / top floor",
+            "€600–€900",
+            "€800",
+            "€0–€100"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For many house types, the SEAI grant now covers the full cost of a standard installation. Always get a minimum of three quotes before committing, and verify each contractor's current registration on the [SEAI contractor register](https://www.seai.ie/find-grants-and-contractors/find-contractors/)."
+      },
+      {
+        "type": "h2",
+        "text": "How to Claim the SEAI Grant"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Apply online at [seai.ie](https://www.seai.ie/grants/home-energy-grants/individual-grants) before any work begins — you must have grant approval first",
+          "Receive your grant approval reference number (usually within a few days)",
+          "Engage your SEAI-registered contractor and have the work carried out",
+          "Your contractor submits the completion certificate and supporting documentation to SEAI",
+          "SEAI pays the grant directly to your bank account — typically within 4–6 weeks"
+        ]
+      },
+      {
+        "type": "cta",
+        "text": "Find attic insulation contractors near you",
+        "href": "directory.html?category=Attic+%26+Floor+Insulation"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: Insulation grants — amounts and eligibility",
+            "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/"
+          },
+          {
+            "text": "SEAI: Apply for a home energy grant",
+            "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants"
+          },
+          {
+            "text": "Gov.ie: Part L Building Regulations — Conservation of Fuel and Energy",
+            "href": "https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/"
+          },
+          {
+            "text": "Citizens Information: Home energy upgrades and grants",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/better-energy-homes-scheme/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -140,44 +464,154 @@
     "author": "Aoife Brennan",
     "summary": "Beyond SEAI, Ireland's local authorities offer a range of home improvement grants that can significantly reduce your retrofit costs. This guide covers every major scheme — who qualifies, how much is available, and how to apply in your county.",
     "body": [
-      {"type": "p", "text": "Most Irish homeowners know about SEAI grants — but far fewer are aware of the substantial local authority schemes that can sit alongside them. In some cases, stacking national and local grants can reduce the cost of a retrofit by 80–90%, or make certain upgrades entirely free. This guide covers every major scheme currently available, based on information published by [gov.ie](https://www.gov.ie/en/service/housing-grants/) and the relevant local authorities."},
-      {"type": "h2", "text": "The Four National Local Authority Schemes"},
-      {"type": "h3", "text": "1. Housing Aid for Older Persons (HAOP)"},
-      {"type": "p", "text": "Available to homeowners aged 66 or over with household income below the threshold (typically €30,000–€40,000 depending on the local authority). Maximum grant: €8,000. Covers general repairs and improvements including roofing, windows, heating systems, and insulation. Full eligibility details are on [citizensinformation.ie](https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-aid-for-older-persons-grant/)."},
-      {"type": "h3", "text": "2. Housing Adaptation Grant for People with a Disability"},
-      {"type": "p", "text": "Maximum grant: €30,000. Available to homeowners who need to adapt their home due to disability or long-term illness. While not exclusively for energy upgrades, heating system improvements are commonly funded where there is a medical need. See [citizensinformation.ie](https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-adaptation-grant-for-people-with-disability/) for full income thresholds and application guidance."},
-      {"type": "h3", "text": "3. Mobility Aids Grant"},
-      {"type": "p", "text": "Maximum grant: €6,000. Targeted at people with mobility difficulties, primarily for grab rails, stair lifts, accessible bathrooms, and level access. Less relevant for energy upgrades but can be combined with other schemes."},
-      {"type": "h3", "text": "4. Warmer Homes Scheme"},
-      {"type": "p", "text": "Run by SEAI but delivered in partnership with local authorities. Provides fully funded energy upgrades — free of charge — to homeowners on qualifying means-tested welfare payments. Qualifying payments include Fuel Allowance, Jobseeker's Allowance, One-Parent Family Payment, and others. A typical upgrade includes attic insulation, wall insulation, draught proofing, and heating controls. Check [SEAI's Warmer Homes page](https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/) for the current qualifying payment list and waiting times."},
-      {"type": "table", "headers": ["Scheme", "Max Grant", "Age Requirement", "Income Tested", "Key Use Cases"], "rows": [
-        ["Housing Aid for Older Persons", "€8,000", "66+", "Yes", "Heating, insulation, windows, repairs"],
-        ["Housing Adaptation Grant", "€30,000", "None", "Yes", "Disability adaptations incl. heating"],
-        ["Mobility Aids Grant", "€6,000", "None", "Yes", "Mobility access adaptations"],
-        ["Warmer Homes Scheme", "Full cost", "None", "Yes (welfare)", "Full energy upgrade package — free"]
-      ]},
-      {"type": "h2", "text": "Can You Stack Local Authority and SEAI Grants?"},
-      {"type": "p", "text": "Yes — in many cases you can combine local authority grants with SEAI Better Energy Homes grants, provided the combined amount does not exceed 100% of the total project cost. This is the most effective way to minimise out-of-pocket expenditure. The local authority calculation usually accounts for other grants received."},
-      {"type": "callout", "text": "Stacking tip: Apply for your SEAI grant first (it pays a fixed amount regardless of income), then apply to your local authority for any remaining balance. Always check with both bodies before committing to any works."},
-      {"type": "h2", "text": "The Sustainable Energy Communities Programme"},
-      {"type": "p", "text": "The [SEAI Sustainable Energy Communities (SEC) programme](https://www.seai.ie/community-energy/sustainable-energy-communities/) provides funding and a dedicated project manager to communities — estates, streets, or rural areas — that form a group and pursue whole-area upgrades collectively. Group purchasing typically reduces contractor costs by 10–20%, and the community structure can access additional grant supports not available to individual homeowners."},
-      {"type": "h2", "text": "How to Find Out What's Available in Your County"},
-      {"type": "ul", "items": [
-        "Contact your county or city council's housing department directly — by phone or via their website",
-        "Search '[your county] council housing grants' for current schemes",
-        "Check [gov.ie housing grants](https://www.gov.ie/en/service/housing-grants/) for the national scheme overview",
-        "Ask your SEAI-registered contractor — experienced local contractors will be familiar with county-specific schemes",
-        "Check [citizensinformation.ie](https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/) for plain-English summaries of all available grants"
-      ]},
-      {"type": "cta", "text": "Find registered retrofit contractors in your county", "href": "directory.html"},
-      {"type": "sources", "items": [
-        {"text": "Gov.ie: Housing grants and schemes overview", "href": "https://www.gov.ie/en/service/housing-grants/"},
-        {"text": "SEAI: Warmer Homes Scheme (fully funded upgrades)", "href": "https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/"},
-        {"text": "SEAI: Sustainable Energy Communities programme", "href": "https://www.seai.ie/community-energy/sustainable-energy-communities/"},
-        {"text": "Citizens Information: Housing Aid for Older Persons Grant", "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-aid-for-older-persons-grant/"},
-        {"text": "Citizens Information: Housing Adaptation Grant for disability", "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-adaptation-grant-for-people-with-disability/"},
-        {"text": "Citizens Information: All home renovation and improvement grants", "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/"}
-      ]}
+      {
+        "type": "p",
+        "text": "Most Irish homeowners know about SEAI grants — but far fewer are aware of the substantial local authority schemes that can sit alongside them. In some cases, stacking national and local grants can reduce the cost of a retrofit by 80–90%, or make certain upgrades entirely free. This guide covers every major scheme currently available, based on information published by [gov.ie](https://www.gov.ie/en/service/housing-grants/) and the relevant local authorities."
+      },
+      {
+        "type": "h2",
+        "text": "The Four National Local Authority Schemes"
+      },
+      {
+        "type": "h3",
+        "text": "1. Housing Aid for Older Persons (HAOP)"
+      },
+      {
+        "type": "p",
+        "text": "Available to homeowners aged 66 or over with household income below the threshold (typically €30,000–€40,000 depending on the local authority). Maximum grant: €8,000. Covers general repairs and improvements including roofing, windows, heating systems, and insulation. Full eligibility details are on [citizensinformation.ie](https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-aid-for-older-persons-grant/)."
+      },
+      {
+        "type": "h3",
+        "text": "2. Housing Adaptation Grant for People with a Disability"
+      },
+      {
+        "type": "p",
+        "text": "Maximum grant: €30,000. Available to homeowners who need to adapt their home due to disability or long-term illness. While not exclusively for energy upgrades, heating system improvements are commonly funded where there is a medical need. See [citizensinformation.ie](https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-adaptation-grant-for-people-with-disability/) for full income thresholds and application guidance."
+      },
+      {
+        "type": "h3",
+        "text": "3. Mobility Aids Grant"
+      },
+      {
+        "type": "p",
+        "text": "Maximum grant: €6,000. Targeted at people with mobility difficulties, primarily for grab rails, stair lifts, accessible bathrooms, and level access. Less relevant for energy upgrades but can be combined with other schemes."
+      },
+      {
+        "type": "h3",
+        "text": "4. Warmer Homes Scheme"
+      },
+      {
+        "type": "p",
+        "text": "Run by SEAI but delivered in partnership with local authorities. Provides fully funded energy upgrades — free of charge — to homeowners on qualifying means-tested welfare payments. Qualifying payments include Fuel Allowance, Jobseeker's Allowance, One-Parent Family Payment, and others. A typical upgrade includes attic insulation, wall insulation, draught proofing, and heating controls. Check [SEAI's Warmer Homes page](https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/) for the current qualifying payment list and waiting times."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Scheme",
+          "Max Grant",
+          "Age Requirement",
+          "Income Tested",
+          "Key Use Cases"
+        ],
+        "rows": [
+          [
+            "Housing Aid for Older Persons",
+            "€8,000",
+            "66+",
+            "Yes",
+            "Heating, insulation, windows, repairs"
+          ],
+          [
+            "Housing Adaptation Grant",
+            "€30,000",
+            "None",
+            "Yes",
+            "Disability adaptations incl. heating"
+          ],
+          [
+            "Mobility Aids Grant",
+            "€6,000",
+            "None",
+            "Yes",
+            "Mobility access adaptations"
+          ],
+          [
+            "Warmer Homes Scheme",
+            "Full cost",
+            "None",
+            "Yes (welfare)",
+            "Full energy upgrade package — free"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Can You Stack Local Authority and SEAI Grants?"
+      },
+      {
+        "type": "p",
+        "text": "Yes — in many cases you can combine local authority grants with SEAI Better Energy Homes grants, provided the combined amount does not exceed 100% of the total project cost. This is the most effective way to minimise out-of-pocket expenditure. The local authority calculation usually accounts for other grants received."
+      },
+      {
+        "type": "callout",
+        "text": "Stacking tip: Apply for your SEAI grant first (it pays a fixed amount regardless of income), then apply to your local authority for any remaining balance. Always check with both bodies before committing to any works."
+      },
+      {
+        "type": "h2",
+        "text": "The Sustainable Energy Communities Programme"
+      },
+      {
+        "type": "p",
+        "text": "The [SEAI Sustainable Energy Communities (SEC) programme](https://www.seai.ie/community-energy/sustainable-energy-communities/) provides funding and a dedicated project manager to communities — estates, streets, or rural areas — that form a group and pursue whole-area upgrades collectively. Group purchasing typically reduces contractor costs by 10–20%, and the community structure can access additional grant supports not available to individual homeowners."
+      },
+      {
+        "type": "h2",
+        "text": "How to Find Out What's Available in Your County"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Contact your county or city council's housing department directly — by phone or via their website",
+          "Search '[your county] council housing grants' for current schemes",
+          "Check [gov.ie housing grants](https://www.gov.ie/en/service/housing-grants/) for the national scheme overview",
+          "Ask your SEAI-registered contractor — experienced local contractors will be familiar with county-specific schemes",
+          "Check [citizensinformation.ie](https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/) for plain-English summaries of all available grants"
+        ]
+      },
+      {
+        "type": "cta",
+        "text": "Find registered retrofit contractors in your county",
+        "href": "directory.html"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "Gov.ie: Housing grants and schemes overview",
+            "href": "https://www.gov.ie/en/service/housing-grants/"
+          },
+          {
+            "text": "SEAI: Warmer Homes Scheme (fully funded upgrades)",
+            "href": "https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes/"
+          },
+          {
+            "text": "SEAI: Sustainable Energy Communities programme",
+            "href": "https://www.seai.ie/community-energy/sustainable-energy-communities/"
+          },
+          {
+            "text": "Citizens Information: Housing Aid for Older Persons Grant",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-aid-for-older-persons-grant/"
+          },
+          {
+            "text": "Citizens Information: Housing Adaptation Grant for disability",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/housing-supports-for-older-people-and-people-with-disabilities/housing-adaptation-grant-for-people-with-disability/"
+          },
+          {
+            "text": "Citizens Information: All home renovation and improvement grants",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -188,56 +622,188 @@
     "author": "RetrofitList.ie Editorial Team",
     "summary": "The heat pump grant jumped to €12,500 in February 2026, making this the largest single home energy grant in Ireland. This guide covers how heat pumps work in Irish homes, whether yours is suitable, realistic costs, and what to ask an installer.",
     "body": [
-      {"type": "p", "text": "Air-to-water heat pumps have become the dominant replacement heating system for Irish homes moving away from oil and gas. Installations grew 38% in 2024, and the February 2026 increase of the [heat pump grant to €12,500](https://www.seai.ie/grants/home-energy-grants/individual-grants/heat-pump-systems/) — the largest home energy grant now available in Ireland — is expected to accelerate that further. But heat pumps are not suitable for every home, and the technology is frequently misunderstood."},
-      {"type": "h2", "text": "How Does a Heat Pump Work in an Irish Home?"},
-      {"type": "p", "text": "An air-to-water heat pump extracts heat energy from outdoor air — even at temperatures as low as -15°C — and uses it to heat water, which then circulates through radiators or underfloor heating. The key metric is the Coefficient of Performance (COP): for every 1 unit of electricity consumed, a modern heat pump delivers 3–4 units of heat. The [Heat Pump Association of Ireland (HPAI)](https://www.hpai.ie/) provides independent guidance on system performance and installer standards."},
-      {"type": "h2", "text": "Is My Home Suitable?"},
-      {"type": "p", "text": "This is the most important question to answer before considering a heat pump. The technology works best in well-insulated homes with adequate heat distribution. SEAI recommends your home achieves at least a [C1 BER rating](https://ndber.seai.ie/) before installing a heat pump."},
-      {"type": "table", "headers": ["Factor", "Suitable", "May Need Work First", "Problematic"], "rows": [
-        ["BER Rating", "B or above", "C1–C3", "D or below"],
-        ["Attic Insulation", "300mm+", "150–200mm", "None or minimal"],
-        ["Wall Insulation", "Any type in place", "Partial", "None (solid walls)"],
-        ["Radiators", "Large, modern", "Standard, may need sizing", "Small or old"],
-        ["Heating System", "Wet system (radiators)", "Underfloor heating", "Air-only (no radiators)"],
-        ["Hot Water", "Cylinder in place", "Space for cylinder", "Combi boiler only (no cylinder)"]
-      ]},
-      {"type": "callout", "text": "SEAI requirement: a full heat loss assessment (to MCS or CIBSE methodology) is required before SEAI will approve a heat pump grant. This assessment must be carried out by your installer and submitted with your grant application. Do not engage any installer who proposes to skip this step."},
-      {"type": "h2", "text": "Types of Heat Pump Available in Ireland"},
-      {"type": "ul", "items": [
-        "Air-to-Water (most common): outdoor unit extracts heat from air, heats water for radiators and hot water cylinder. Suitable for most Irish homes with wet heating systems.",
-        "Ground Source (horizontal): pipes buried in garden extract heat from the ground. More efficient but requires significant outdoor space (typically 3× the house footprint).",
-        "Ground Source (vertical): borehole drilled to ~100m depth. High efficiency, minimal land requirement, but high installation cost.",
-        "Exhaust Air to Water: extracts heat from ventilated air inside the building. Suitable for very airtight, well-ventilated homes only.",
-        "Air-to-Air: heats air directly (like a reverse air conditioner). Does not heat hot water. Rarely used in Ireland as a primary heating system."
-      ]},
-      {"type": "h2", "text": "What Does It Cost in 2026?"},
-      {"type": "table", "headers": ["Cost Component", "Typical Range", "SEAI Grant 2026", "Net Cost After Grant"], "rows": [
-        ["Heat pump unit + installation", "€10,000–€18,000", "€6,500", "€3,500–€11,500"],
-        ["Radiator upgrades (if needed)", "€2,000–€5,000", "€2,000", "€0–€3,000"],
-        ["Hot water cylinder (if needed)", "€800–€1,500", "Included in system grant", "€800–€1,500"],
-        ["Total (typical mid-range)", "€14,000–€20,000", "€12,500 (max)", "€1,500–€7,500"]
-      ]},
-      {"type": "h2", "text": "What to Ask Your Heat Pump Installer"},
-      {"type": "ul", "items": [
-        "Are you currently on the [SEAI heat pump installer register](https://www.seai.ie/find-grants-and-contractors/find-contractors/)? Ask to see their SEAI registration number.",
-        "Will you carry out a full heat loss assessment (MCS or CIBSE) before sizing the system?",
-        "What COP do you expect this system to achieve in my home, and what assumptions does that use?",
-        "What radiator upgrades do you recommend, and why?",
-        "What electricity tariff do you recommend for running this system?",
-        "What is the warranty on the unit, and who provides after-sales support?",
-        "Can you provide references from similar installations in my area?"
-      ]},
-      {"type": "h2", "text": "Running Costs: What to Realistically Expect"},
-      {"type": "p", "text": "Annual running costs for a heat pump in a well-insulated Irish home of around 120m² typically fall between €900 and €1,600 depending on the electricity tariff, the home's insulation level, and usage patterns. Several Irish suppliers now offer heat pump-specific tariffs with lower off-peak rates — the [Commission for Regulation of Utilities (CRU)](https://www.cru.ie/) publishes guidance on comparing energy tariffs."},
-      {"type": "cta", "text": "Find SEAI-registered heat pump installers near you", "href": "directory.html?category=Heat+Pumps"},
-      {"type": "sources", "items": [
-        {"text": "SEAI: Heat pump system grants — amounts and eligibility", "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants/heat-pump-systems/"},
-        {"text": "SEAI: Find a registered heat pump installer", "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/"},
-        {"text": "Heat Pump Association of Ireland (HPAI) — installer standards and guidance", "href": "https://www.hpai.ie/"},
-        {"text": "SEAI: BER register — check your home's current energy rating", "href": "https://ndber.seai.ie/"},
-        {"text": "Commission for Regulation of Utilities (CRU) — energy tariff guidance", "href": "https://www.cru.ie/"},
-        {"text": "Citizens Information: Heat pump grants and installation", "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/better-energy-homes-scheme/"}
-      ]}
+      {
+        "type": "p",
+        "text": "Air-to-water heat pumps have become the dominant replacement heating system for Irish homes moving away from oil and gas. Installations grew 38% in 2024, and the February 2026 increase of the [heat pump grant to €12,500](https://www.seai.ie/grants/home-energy-grants/individual-grants/heat-pump-systems/) — the largest home energy grant now available in Ireland — is expected to accelerate that further. But heat pumps are not suitable for every home, and the technology is frequently misunderstood."
+      },
+      {
+        "type": "h2",
+        "text": "How Does a Heat Pump Work in an Irish Home?"
+      },
+      {
+        "type": "p",
+        "text": "An air-to-water heat pump extracts heat energy from outdoor air — even at temperatures as low as -15°C — and uses it to heat water, which then circulates through radiators or underfloor heating. The key metric is the Coefficient of Performance (COP): for every 1 unit of electricity consumed, a modern heat pump delivers 3–4 units of heat. The [Heat Pump Association of Ireland (HPAI)](https://www.hpai.ie/) provides independent guidance on system performance and installer standards."
+      },
+      {
+        "type": "h2",
+        "text": "Is My Home Suitable?"
+      },
+      {
+        "type": "p",
+        "text": "This is the most important question to answer before considering a heat pump. The technology works best in well-insulated homes with adequate heat distribution. SEAI recommends your home achieves at least a [C1 BER rating](https://ndber.seai.ie/) before installing a heat pump."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Factor",
+          "Suitable",
+          "May Need Work First",
+          "Problematic"
+        ],
+        "rows": [
+          [
+            "BER Rating",
+            "B or above",
+            "C1–C3",
+            "D or below"
+          ],
+          [
+            "Attic Insulation",
+            "300mm+",
+            "150–200mm",
+            "None or minimal"
+          ],
+          [
+            "Wall Insulation",
+            "Any type in place",
+            "Partial",
+            "None (solid walls)"
+          ],
+          [
+            "Radiators",
+            "Large, modern",
+            "Standard, may need sizing",
+            "Small or old"
+          ],
+          [
+            "Heating System",
+            "Wet system (radiators)",
+            "Underfloor heating",
+            "Air-only (no radiators)"
+          ],
+          [
+            "Hot Water",
+            "Cylinder in place",
+            "Space for cylinder",
+            "Combi boiler only (no cylinder)"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "SEAI requirement: a full heat loss assessment (to MCS or CIBSE methodology) is required before SEAI will approve a heat pump grant. This assessment must be carried out by your installer and submitted with your grant application. Do not engage any installer who proposes to skip this step."
+      },
+      {
+        "type": "h2",
+        "text": "Types of Heat Pump Available in Ireland"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Air-to-Water (most common): outdoor unit extracts heat from air, heats water for radiators and hot water cylinder. Suitable for most Irish homes with wet heating systems.",
+          "Ground Source (horizontal): pipes buried in garden extract heat from the ground. More efficient but requires significant outdoor space (typically 3× the house footprint).",
+          "Ground Source (vertical): borehole drilled to ~100m depth. High efficiency, minimal land requirement, but high installation cost.",
+          "Exhaust Air to Water: extracts heat from ventilated air inside the building. Suitable for very airtight, well-ventilated homes only.",
+          "Air-to-Air: heats air directly (like a reverse air conditioner). Does not heat hot water. Rarely used in Ireland as a primary heating system."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What Does It Cost in 2026?"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Cost Component",
+          "Typical Range",
+          "SEAI Grant 2026",
+          "Net Cost After Grant"
+        ],
+        "rows": [
+          [
+            "Heat pump unit + installation",
+            "€10,000–€18,000",
+            "€6,500",
+            "€3,500–€11,500"
+          ],
+          [
+            "Radiator upgrades (if needed)",
+            "€2,000–€5,000",
+            "€2,000",
+            "€0–€3,000"
+          ],
+          [
+            "Hot water cylinder (if needed)",
+            "€800–€1,500",
+            "Included in system grant",
+            "€800–€1,500"
+          ],
+          [
+            "Total (typical mid-range)",
+            "€14,000–€20,000",
+            "€12,500 (max)",
+            "€1,500–€7,500"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What to Ask Your Heat Pump Installer"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Are you currently on the [SEAI heat pump installer register](https://www.seai.ie/find-grants-and-contractors/find-contractors/)? Ask to see their SEAI registration number.",
+          "Will you carry out a full heat loss assessment (MCS or CIBSE) before sizing the system?",
+          "What COP do you expect this system to achieve in my home, and what assumptions does that use?",
+          "What radiator upgrades do you recommend, and why?",
+          "What electricity tariff do you recommend for running this system?",
+          "What is the warranty on the unit, and who provides after-sales support?",
+          "Can you provide references from similar installations in my area?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Running Costs: What to Realistically Expect"
+      },
+      {
+        "type": "p",
+        "text": "Annual running costs for a heat pump in a well-insulated Irish home of around 120m² typically fall between €900 and €1,600 depending on the electricity tariff, the home's insulation level, and usage patterns. Several Irish suppliers now offer heat pump-specific tariffs with lower off-peak rates — the [Commission for Regulation of Utilities (CRU)](https://www.cru.ie/) publishes guidance on comparing energy tariffs."
+      },
+      {
+        "type": "cta",
+        "text": "Find SEAI-registered heat pump installers near you",
+        "href": "directory.html?category=Heat+Pumps"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: Heat pump system grants — amounts and eligibility",
+            "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants/heat-pump-systems/"
+          },
+          {
+            "text": "SEAI: Find a registered heat pump installer",
+            "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/"
+          },
+          {
+            "text": "Heat Pump Association of Ireland (HPAI) — installer standards and guidance",
+            "href": "https://www.hpai.ie/"
+          },
+          {
+            "text": "SEAI: BER register — check your home's current energy rating",
+            "href": "https://ndber.seai.ie/"
+          },
+          {
+            "text": "Commission for Regulation of Utilities (CRU) — energy tariff guidance",
+            "href": "https://www.cru.ie/"
+          },
+          {
+            "text": "Citizens Information: Heat pump grants and installation",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/better-energy-homes-scheme/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -248,59 +814,181 @@
     "author": "Siobhán O'Neill",
     "summary": "External Wall Insulation (EWI) is the most impactful single upgrade for solid-walled Irish homes. This guide covers the planning rules updated in 2022, the different EWI systems available, realistic costs, SEAI grants of up to €8,000, and what to expect during installation.",
     "body": [
-      {"type": "p", "text": "External Wall Insulation (EWI) transforms the thermal performance of an Irish home by wrapping the outside walls in an insulating layer — typically 100–150mm thick — covered in a new render finish. It is the most impactful upgrade available for older solid-walled homes, which make up the majority of Ireland's pre-1980 housing stock. For these homes, EWI can cut heat loss through walls by up to 80%. [SEAI grants of up to €8,000](https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/) are available for detached homes."},
-      {"type": "h2", "text": "Do You Need Planning Permission?"},
-      {"type": "p", "text": "For the vast majority of Irish homes, external wall insulation is classified as exempted development — no planning application is required. Under the [Planning and Development Regulations 2022](https://www.irishstatutebook.ie/eli/2022/si/235/made/en/print), EWI is exempt provided:"},
-      {"type": "ul", "items": [
-        "The additional thickness does not exceed 250mm on any elevation",
-        "The work does not involve replacing windows or doors as part of the exempt works",
-        "The property is not a protected structure or in an Architectural Conservation Area (ACA)"
-      ]},
-      {"type": "callout", "text": "Check your property status before starting: if your home is a protected structure or within an ACA (common in historic town centres, Georgian areas, and many rural estates), you will need planning permission. Contact your local authority's planning department for a free pre-application consultation — this avoids costly surprises. You can check your home's status on your local authority's planning portal."},
-      {"type": "p", "text": "Even where planning permission is not required, all EWI work must comply with [Part L (energy)](https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/) and [Part B (fire safety)](https://www.gov.ie/en/publication/c5f39-building-regulations-technical-guidance-document-b-fire-safety/) of the Building Regulations. Your contractor is responsible for compliance, and SEAI-funded work is subject to inspection."},
-      {"type": "h2", "text": "Types of EWI Systems"},
-      {"type": "table", "headers": ["System Type", "Insulation Material", "Finish", "Best For"], "rows": [
-        ["EPS Board System", "Expanded polystyrene (EPS)", "Render or brick slip", "Most standard brick and block homes"],
-        ["Mineral Wool Board System", "Rock or glass wool board", "Render", "High fire resistance, solid stone walls"],
-        ["Phenolic / PIR Board System", "Phenolic foam or PIR", "Render", "Maximum performance in minimal thickness"],
-        ["Bead Injection (retrofit cavity)", "Polystyrene beads", "No external change", "Homes with existing unfilled cavities"]
-      ]},
-      {"type": "h2", "text": "What Does EWI Cost?"},
-      {"type": "table", "headers": ["House Type", "Typical EWI Cost (inc. VAT)", "SEAI Grant 2026", "Net Cost After Grant"], "rows": [
-        ["Detached house (large)", "€15,000–€25,000", "€8,000", "€7,000–€17,000"],
-        ["Semi-detached", "€10,000–€18,000", "€6,000", "€4,000–€12,000"],
-        ["Mid-terrace", "€7,000–€12,000", "€4,000", "€3,000–€8,000"],
-        ["Bead cavity injection (semi-d)", "€1,200–€2,000", "€1,200–€1,800", "€0–€800"]
-      ]},
-      {"type": "p", "text": "EWI costs vary by wall area, building complexity, system chosen, and access requirements. Always get a minimum of three quotes from [SEAI-registered contractors](https://www.seai.ie/find-grants-and-contractors/find-contractors/) and ask each to provide a full written specification."},
-      {"type": "h2", "text": "What Happens During Installation?"},
-      {"type": "ol", "items": [
-        "Site preparation — scaffolding erected, window sills and external fittings removed",
-        "Wall preparation — defects repaired, surface cleaned",
-        "Insulation boards fixed — mechanically fixed and/or adhesive-bonded to the wall",
-        "Reinforcing mesh — embedded in base coat around windows, corners, and over boards",
-        "Base coat — applied over the full surface and mesh",
-        "Final render or finish — applied in one or two coats",
-        "Window sills replaced (extended to account for the new wall thickness)",
-        "Scaffolding removed and site cleaned"
-      ]},
-      {"type": "h2", "text": "Common Mistakes to Watch For"},
-      {"type": "ul", "items": [
-        "Insufficient insulation depth — anything below 100mm will underperform; 120–150mm is standard for Irish conditions",
-        "Poor detailing around windows and doors — cold bridges here negate much of the benefit",
-        "Not treating the roof overhangs — the junction between the EWI and the soffit needs careful detailing",
-        "Using inappropriate systems in high-exposure coastal locations — not all renders are suitable for exposed sites",
-        "Skipping ventilation consideration — in very airtight homes, EWI can worsen condensation if ventilation is not addressed"
-      ]},
-      {"type": "callout", "text": "Always ask your contractor for a full specification document before work begins — including the system manufacturer, insulation type and thickness, render type, and U-value achieved. A reputable contractor will provide this without being asked."},
-      {"type": "cta", "text": "Find SEAI-registered EWI contractors near you", "href": "directory.html?category=External+Wall+Insulation"},
-      {"type": "sources", "items": [
-        {"text": "SEAI: Insulation grants — EWI amounts and eligibility", "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/"},
-        {"text": "Irish Statute Book: Planning and Development Regulations 2022 (S.I. 235/2022)", "href": "https://www.irishstatutebook.ie/eli/2022/si/235/made/en/print"},
-        {"text": "Gov.ie: Part L Building Regulations — Conservation of Fuel and Energy", "href": "https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/"},
-        {"text": "Gov.ie: Part B Building Regulations — Fire Safety", "href": "https://www.gov.ie/en/publication/c5f39-building-regulations-technical-guidance-document-b-fire-safety/"},
-        {"text": "SEAI: Find a registered EWI contractor", "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/"}
-      ]}
+      {
+        "type": "p",
+        "text": "External Wall Insulation (EWI) transforms the thermal performance of an Irish home by wrapping the outside walls in an insulating layer — typically 100–150mm thick — covered in a new render finish. It is the most impactful upgrade available for older solid-walled homes, which make up the majority of Ireland's pre-1980 housing stock. For these homes, EWI can cut heat loss through walls by up to 80%. [SEAI grants of up to €8,000](https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/) are available for detached homes."
+      },
+      {
+        "type": "h2",
+        "text": "Do You Need Planning Permission?"
+      },
+      {
+        "type": "p",
+        "text": "For the vast majority of Irish homes, external wall insulation is classified as exempted development — no planning application is required. Under the [Planning and Development Regulations 2022](https://www.irishstatutebook.ie/eli/2022/si/235/made/en/print), EWI is exempt provided:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The additional thickness does not exceed 250mm on any elevation",
+          "The work does not involve replacing windows or doors as part of the exempt works",
+          "The property is not a protected structure or in an Architectural Conservation Area (ACA)"
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Check your property status before starting: if your home is a protected structure or within an ACA (common in historic town centres, Georgian areas, and many rural estates), you will need planning permission. Contact your local authority's planning department for a free pre-application consultation — this avoids costly surprises. You can check your home's status on your local authority's planning portal."
+      },
+      {
+        "type": "p",
+        "text": "Even where planning permission is not required, all EWI work must comply with [Part L (energy)](https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/) and [Part B (fire safety)](https://www.gov.ie/en/publication/c5f39-building-regulations-technical-guidance-document-b-fire-safety/) of the Building Regulations. Your contractor is responsible for compliance, and SEAI-funded work is subject to inspection."
+      },
+      {
+        "type": "h2",
+        "text": "Types of EWI Systems"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "System Type",
+          "Insulation Material",
+          "Finish",
+          "Best For"
+        ],
+        "rows": [
+          [
+            "EPS Board System",
+            "Expanded polystyrene (EPS)",
+            "Render or brick slip",
+            "Most standard brick and block homes"
+          ],
+          [
+            "Mineral Wool Board System",
+            "Rock or glass wool board",
+            "Render",
+            "High fire resistance, solid stone walls"
+          ],
+          [
+            "Phenolic / PIR Board System",
+            "Phenolic foam or PIR",
+            "Render",
+            "Maximum performance in minimal thickness"
+          ],
+          [
+            "Bead Injection (retrofit cavity)",
+            "Polystyrene beads",
+            "No external change",
+            "Homes with existing unfilled cavities"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What Does EWI Cost?"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "House Type",
+          "Typical EWI Cost (inc. VAT)",
+          "SEAI Grant 2026",
+          "Net Cost After Grant"
+        ],
+        "rows": [
+          [
+            "Detached house (large)",
+            "€15,000–€25,000",
+            "€8,000",
+            "€7,000–€17,000"
+          ],
+          [
+            "Semi-detached",
+            "€10,000–€18,000",
+            "€6,000",
+            "€4,000–€12,000"
+          ],
+          [
+            "Mid-terrace",
+            "€7,000–€12,000",
+            "€4,000",
+            "€3,000–€8,000"
+          ],
+          [
+            "Bead cavity injection (semi-d)",
+            "€1,200–€2,000",
+            "€1,200–€1,800",
+            "€0–€800"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "EWI costs vary by wall area, building complexity, system chosen, and access requirements. Always get a minimum of three quotes from [SEAI-registered contractors](https://www.seai.ie/find-grants-and-contractors/find-contractors/) and ask each to provide a full written specification."
+      },
+      {
+        "type": "h2",
+        "text": "What Happens During Installation?"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Site preparation — scaffolding erected, window sills and external fittings removed",
+          "Wall preparation — defects repaired, surface cleaned",
+          "Insulation boards fixed — mechanically fixed and/or adhesive-bonded to the wall",
+          "Reinforcing mesh — embedded in base coat around windows, corners, and over boards",
+          "Base coat — applied over the full surface and mesh",
+          "Final render or finish — applied in one or two coats",
+          "Window sills replaced (extended to account for the new wall thickness)",
+          "Scaffolding removed and site cleaned"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Common Mistakes to Watch For"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Insufficient insulation depth — anything below 100mm will underperform; 120–150mm is standard for Irish conditions",
+          "Poor detailing around windows and doors — cold bridges here negate much of the benefit",
+          "Not treating the roof overhangs — the junction between the EWI and the soffit needs careful detailing",
+          "Using inappropriate systems in high-exposure coastal locations — not all renders are suitable for exposed sites",
+          "Skipping ventilation consideration — in very airtight homes, EWI can worsen condensation if ventilation is not addressed"
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Always ask your contractor for a full specification document before work begins — including the system manufacturer, insulation type and thickness, render type, and U-value achieved. A reputable contractor will provide this without being asked."
+      },
+      {
+        "type": "cta",
+        "text": "Find SEAI-registered EWI contractors near you",
+        "href": "directory.html?category=External+Wall+Insulation"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: Insulation grants — EWI amounts and eligibility",
+            "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/"
+          },
+          {
+            "text": "Irish Statute Book: Planning and Development Regulations 2022 (S.I. 235/2022)",
+            "href": "https://www.irishstatutebook.ie/eli/2022/si/235/made/en/print"
+          },
+          {
+            "text": "Gov.ie: Part L Building Regulations — Conservation of Fuel and Energy",
+            "href": "https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/"
+          },
+          {
+            "text": "Gov.ie: Part B Building Regulations — Fire Safety",
+            "href": "https://www.gov.ie/en/publication/c5f39-building-regulations-technical-guidance-document-b-fire-safety/"
+          },
+          {
+            "text": "SEAI: Find a registered EWI contractor",
+            "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -311,65 +999,1195 @@
     "author": "Pádraig Walsh",
     "summary": "The One-Stop-Shop model handles your entire retrofit from first call to final BER certificate — grant paperwork included. This guide explains how it works, how the grants compare, what it really costs, and how to choose the right provider from Ireland's 32 approved OSS companies.",
     "body": [
-      {"type": "p", "text": "The [SEAI One-Stop-Shop (OSS) model](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/) was introduced in 2022 alongside the National Home Energy Upgrade Scheme. Rather than managing multiple contractors, multiple grant applications, and a complex project yourself, you engage a single SEAI-approved provider who takes responsibility for the entire process — from the initial home energy assessment to the final BER certificate."},
-      {"type": "p", "text": "There are currently [32 SEAI-approved One-Stop-Shop providers](https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops) across Ireland — from large national utilities to specialist regional operators. This guide explains how the model works, whether it suits your situation, and how to choose between providers."},
-      {"type": "h2", "text": "What Does a One-Stop-Shop Actually Do?"},
-      {"type": "ol", "items": [
-        "Initial consultation — you contact the OSS provider and discuss your home and goals",
-        "Technical assessment — a [BER assessor](https://ndber.seai.ie/) visits your home and carries out a full energy assessment",
-        "Retrofit plan — the OSS produces a tailored upgrade plan with a full cost and grant breakdown",
-        "Grant application — the OSS applies for all SEAI grants on your behalf",
-        "Project management — the OSS coordinates all tradespeople and manages the works programme",
-        "Works completed — by SEAI-registered sub-contractors managed by the OSS",
-        "Quality assurance — the OSS arranges all SEAI inspections and sign-offs",
-        "Final BER certificate — issued on completion"
-      ]},
-      {"type": "h2", "text": "How Do the Grants Compare to the DIY Route?"},
-      {"type": "p", "text": "The One-Stop-Shop route provides access to higher grant levels under the [National Home Energy Upgrade Scheme (NHEUS)](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/multiple-energy-upgrades) compared to the standard Better Energy Homes individual grants. The key difference is the Deep Retrofit Grant, available exclusively through the OSS route."},
-      {"type": "table", "headers": ["Grant Route", "Individual Measure Grants", "Additional Top-Up", "Best For"], "rows": [
-        ["Better Energy Homes (DIY)", "Per measure (e.g. €12,500 heat pump, €8,000 EWI)", "None", "1–2 measures, straightforward projects"],
-        ["One-Stop-Shop (NHEUS)", "Same individual grants plus Deep Retrofit Grant", "€8,000–€20,000 additional for deep retrofit", "Whole-home upgrade targeting B2+ BER"]
-      ]},
-      {"type": "h2", "text": "What Does It Actually Cost?"},
-      {"type": "p", "text": "A typical whole-home deep retrofit through an OSS provider — covering external wall insulation, attic insulation, heat pump, and mechanical ventilation — costs in the region of €45,000–€70,000 before grants. With SEAI grants (including the deep retrofit top-up), the net cost to the homeowner is typically €15,000–€35,000 depending on the measures, house type, and grant eligibility."},
-      {"type": "callout", "text": "OSS providers charge a project management fee, typically 10–15% of total project cost. This is legitimate and represents the coordination, grant administration, and quality assurance services they provide. It should be clearly itemised in your quote — ask for it upfront."},
-      {"type": "h2", "text": "OSS vs. DIY: Which Is Right for You?"},
-      {"type": "table", "headers": ["Factor", "One-Stop-Shop", "DIY (Individual Grants)"], "rows": [
-        ["Best for", "Whole-home deep retrofit (3+ measures)", "Single or two measures"],
-        ["Grant levels", "Higher (includes deep retrofit bonus)", "Standard BEH rates"],
-        ["Complexity for homeowner", "Low — OSS manages everything", "Higher — you manage contractors and grants"],
-        ["Contractor choice", "OSS selects sub-contractors", "You choose your contractor"],
-        ["Cost (management fee)", "Yes (typically 10–15%)", "No management fee"],
-        ["Timeline", "Longer (full project planning)", "Faster for single measures"]
-      ]},
-      {"type": "h2", "text": "How to Choose an OSS Provider"},
-      {"type": "ul", "items": [
-        "Confirm SEAI approval — check the provider is on the current [SEAI registered OSS list](https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops) before engaging",
-        "Geographic coverage — not all providers operate nationwide; check they work in your county",
-        "References — ask for two or three references from completed projects similar in scale to yours",
-        "Sub-contractor transparency — ask who they use for each measure, and whether those contractors are SEAI registered",
-        "Project management fee — ask for this to be clearly itemised in the quote",
-        "Timeline — ask for a realistic timeline from assessment to completion",
-        "Aftercare — what support is provided if issues arise after the works are complete?"
-      ]},
-      {"type": "h2", "text": "Key Questions to Ask at Your First Meeting"},
-      {"type": "ul", "items": [
-        "What BER rating do you expect to achieve, and what measures are needed to get there?",
-        "What is the total cost, and what grants are you applying for on my behalf?",
-        "What is your project management fee, and what does it include?",
-        "Who are your sub-contractors for each measure, and are they SEAI registered?",
-        "What is the expected timeline from assessment to completion certificate?",
-        "What happens if costs increase during the project?",
-        "Can I see a completed example of your work, including the post-retrofit BER certificate?"
-      ]},
-      {"type": "cta", "text": "Find SEAI-approved One-Stop-Shop providers near you", "href": "directory.html?category=One-Stop-Shop+Retrofit"},
-      {"type": "sources", "items": [
-        {"text": "SEAI: One-Stop-Shop retrofit — how it works", "href": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/"},
-        {"text": "SEAI: Registered One-Stop-Shop providers", "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops"},
-        {"text": "SEAI: National Home Energy Upgrade Scheme — multiple measures", "href": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/multiple-energy-upgrades"},
-        {"text": "SEAI: BER register — find your home's energy rating", "href": "https://ndber.seai.ie/"},
-        {"text": "Citizens Information: National Home Energy Upgrade Scheme", "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/national-home-energy-upgrade-scheme/"}
-      ]}
+      {
+        "type": "p",
+        "text": "The [SEAI One-Stop-Shop (OSS) model](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/) was introduced in 2022 alongside the National Home Energy Upgrade Scheme. Rather than managing multiple contractors, multiple grant applications, and a complex project yourself, you engage a single SEAI-approved provider who takes responsibility for the entire process — from the initial home energy assessment to the final BER certificate."
+      },
+      {
+        "type": "p",
+        "text": "There are currently [32 SEAI-approved One-Stop-Shop providers](https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops) across Ireland — from large national utilities to specialist regional operators. This guide explains how the model works, whether it suits your situation, and how to choose between providers."
+      },
+      {
+        "type": "h2",
+        "text": "What Does a One-Stop-Shop Actually Do?"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Initial consultation — you contact the OSS provider and discuss your home and goals",
+          "Technical assessment — a [BER assessor](https://ndber.seai.ie/) visits your home and carries out a full energy assessment",
+          "Retrofit plan — the OSS produces a tailored upgrade plan with a full cost and grant breakdown",
+          "Grant application — the OSS applies for all SEAI grants on your behalf",
+          "Project management — the OSS coordinates all tradespeople and manages the works programme",
+          "Works completed — by SEAI-registered sub-contractors managed by the OSS",
+          "Quality assurance — the OSS arranges all SEAI inspections and sign-offs",
+          "Final BER certificate — issued on completion"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How Do the Grants Compare to the DIY Route?"
+      },
+      {
+        "type": "p",
+        "text": "The One-Stop-Shop route provides access to higher grant levels under the [National Home Energy Upgrade Scheme (NHEUS)](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/multiple-energy-upgrades) compared to the standard Better Energy Homes individual grants. The key difference is the Deep Retrofit Grant, available exclusively through the OSS route."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Grant Route",
+          "Individual Measure Grants",
+          "Additional Top-Up",
+          "Best For"
+        ],
+        "rows": [
+          [
+            "Better Energy Homes (DIY)",
+            "Per measure (e.g. €12,500 heat pump, €8,000 EWI)",
+            "None",
+            "1–2 measures, straightforward projects"
+          ],
+          [
+            "One-Stop-Shop (NHEUS)",
+            "Same individual grants plus Deep Retrofit Grant",
+            "€8,000–€20,000 additional for deep retrofit",
+            "Whole-home upgrade targeting B2+ BER"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What Does It Actually Cost?"
+      },
+      {
+        "type": "p",
+        "text": "A typical whole-home deep retrofit through an OSS provider — covering external wall insulation, attic insulation, heat pump, and mechanical ventilation — costs in the region of €45,000–€70,000 before grants. With SEAI grants (including the deep retrofit top-up), the net cost to the homeowner is typically €15,000–€35,000 depending on the measures, house type, and grant eligibility."
+      },
+      {
+        "type": "callout",
+        "text": "OSS providers charge a project management fee, typically 10–15% of total project cost. This is legitimate and represents the coordination, grant administration, and quality assurance services they provide. It should be clearly itemised in your quote — ask for it upfront."
+      },
+      {
+        "type": "h2",
+        "text": "OSS vs. DIY: Which Is Right for You?"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Factor",
+          "One-Stop-Shop",
+          "DIY (Individual Grants)"
+        ],
+        "rows": [
+          [
+            "Best for",
+            "Whole-home deep retrofit (3+ measures)",
+            "Single or two measures"
+          ],
+          [
+            "Grant levels",
+            "Higher (includes deep retrofit bonus)",
+            "Standard BEH rates"
+          ],
+          [
+            "Complexity for homeowner",
+            "Low — OSS manages everything",
+            "Higher — you manage contractors and grants"
+          ],
+          [
+            "Contractor choice",
+            "OSS selects sub-contractors",
+            "You choose your contractor"
+          ],
+          [
+            "Cost (management fee)",
+            "Yes (typically 10–15%)",
+            "No management fee"
+          ],
+          [
+            "Timeline",
+            "Longer (full project planning)",
+            "Faster for single measures"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How to Choose an OSS Provider"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Confirm SEAI approval — check the provider is on the current [SEAI registered OSS list](https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops) before engaging",
+          "Geographic coverage — not all providers operate nationwide; check they work in your county",
+          "References — ask for two or three references from completed projects similar in scale to yours",
+          "Sub-contractor transparency — ask who they use for each measure, and whether those contractors are SEAI registered",
+          "Project management fee — ask for this to be clearly itemised in the quote",
+          "Timeline — ask for a realistic timeline from assessment to completion",
+          "Aftercare — what support is provided if issues arise after the works are complete?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Key Questions to Ask at Your First Meeting"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "What BER rating do you expect to achieve, and what measures are needed to get there?",
+          "What is the total cost, and what grants are you applying for on my behalf?",
+          "What is your project management fee, and what does it include?",
+          "Who are your sub-contractors for each measure, and are they SEAI registered?",
+          "What is the expected timeline from assessment to completion certificate?",
+          "What happens if costs increase during the project?",
+          "Can I see a completed example of your work, including the post-retrofit BER certificate?"
+        ]
+      },
+      {
+        "type": "cta",
+        "text": "Find SEAI-approved One-Stop-Shop providers near you",
+        "href": "directory.html?category=One-Stop-Shop+Retrofit"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: One-Stop-Shop retrofit — how it works",
+            "href": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/"
+          },
+          {
+            "text": "SEAI: Registered One-Stop-Shop providers",
+            "href": "https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops"
+          },
+          {
+            "text": "SEAI: National Home Energy Upgrade Scheme — multiple measures",
+            "href": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/multiple-energy-upgrades"
+          },
+          {
+            "text": "SEAI: BER register — find your home's energy rating",
+            "href": "https://ndber.seai.ie/"
+          },
+          {
+            "text": "Citizens Information: National Home Energy Upgrade Scheme",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/national-home-energy-upgrade-scheme/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "BER Ratings in Ireland Explained: A to G, What Each Means, and How to Improve Yours",
+    "date": "2026-05-10",
+    "category": "How-To Guides",
+    "author": "RetrofitList.ie Editorial Team",
+    "summary": "Everything Irish homeowners need to know about BER ratings — what the letters mean, how assessments work, what score you need for grants, and the most cost-effective ways to move up the scale.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A Building Energy Rating (BER) is Ireland's official measure of how energy-efficient a home is. Think of it like a nutrition label for a house — it tells you, at a glance, how much energy the building needs to heat, light, and run hot water. BER ratings run from A1 (the most efficient) to G (the least), and they affect everything from your heating bills to your eligibility for SEAI grants to the resale value of your property."
+      },
+      {
+        "type": "p",
+        "text": "BER assessments are governed by [SEAI under the European Communities (Energy Performance of Buildings) Regulations](https://www.irishstatutebook.ie/eli/2006/si/666/made/en/print) and are mandatory when a home is sold or let. Every assessment is recorded on the [National BER Register](https://ndber.seai.ie/pass/ber/search.aspx) maintained by SEAI."
+      },
+      {
+        "type": "callout",
+        "text": "As of 2026, over 1.1 million Irish homes have a BER on record. The national average is a D1 — meaning most Irish homes are still well below the recommended B2 target for comfortable, affordable heating."
+      },
+      {
+        "type": "h2",
+        "text": "The BER Scale: What Each Rating Means"
+      },
+      {
+        "type": "p",
+        "text": "BER ratings are expressed as a letter (A through G) with sub-grades within some letters. They are based on primary energy use per square metre per year (kWh/m²/yr) — lower is better."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Rating",
+          "Energy Use (kWh/m²/yr)",
+          "Typical Annual Heating Cost",
+          "Home Type"
+        ],
+        "rows": [
+          [
+            "A1",
+            "< 25",
+            "~€200–400",
+            "Passive house standard"
+          ],
+          [
+            "A2",
+            "25–50",
+            "~€400–600",
+            "Nearly Zero Energy Building"
+          ],
+          [
+            "A3",
+            "50–75",
+            "~€600–900",
+            "High-spec new build"
+          ],
+          [
+            "B1",
+            "75–100",
+            "~€900–1,300",
+            "Good modern standard"
+          ],
+          [
+            "B2",
+            "100–125",
+            "~€1,300–1,700",
+            "SEAI One-Stop-Shop target"
+          ],
+          [
+            "B3",
+            "125–150",
+            "~€1,700–2,200",
+            "Post-2000 mid-spec build"
+          ],
+          [
+            "C1",
+            "150–175",
+            "~€2,200–2,800",
+            "Typical 1990s home"
+          ],
+          [
+            "C2",
+            "175–200",
+            "~€2,800–3,400",
+            "Typical 1980s home"
+          ],
+          [
+            "D1",
+            "200–225",
+            "~€3,400–4,100",
+            "National average"
+          ],
+          [
+            "D2",
+            "225–260",
+            "~€4,100–4,700",
+            "Poor older stock"
+          ],
+          [
+            "E1–G",
+            "> 260",
+            "> €4,700",
+            "Uninsulated older homes"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Heating cost estimates are approximate and vary with home size, occupant behaviour, and fuel type. A 100m² house rated D1 will typically spend significantly less than a 200m² house with the same rating."
+      },
+      {
+        "type": "h2",
+        "text": "Why Your BER Rating Matters"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Grant eligibility — many SEAI grants require a minimum post-works improvement (e.g. heat pump grants require reaching B3 or above after installation)",
+          "One-Stop-Shop access — the SEAI One-Stop-Shop scheme targets homes reaching B2 or better, unlocking higher grant levels up to €50,000",
+          "Mortgage rates — Irish banks including AIB, Bank of Ireland, and Permanent TSB offer green mortgage rates to homes rated B3 or above",
+          "Rental legal obligations — from 2025, new rental tenancies require a minimum C3 BER; a D or below means the landlord must upgrade",
+          "Sale value — research consistently shows BER improvements increase property sale prices; a move from D to B can add 5–10% to asking price",
+          "Comfort — higher-rated homes have fewer cold spots, less draught, and lower condensation risk"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How a BER Assessment Works"
+      },
+      {
+        "type": "p",
+        "text": "A BER assessment must be carried out by an [SEAI-registered BER assessor](https://ndber.seai.ie/pass/assessors/assessorsregister.aspx). The assessor visits your home and records: floor area, construction type and age, wall/roof/floor insulation levels, window types and glazing, heating system type and controls, hot water system, and any renewable energy systems (solar PV, heat pump)."
+      },
+      {
+        "type": "p",
+        "text": "The data is entered into DEAP software (Dwelling Energy Assessment Procedure) — Ireland's approved calculation tool — which produces an energy figure in kWh/m²/yr and a corresponding letter rating. The full assessment typically takes 1–2 hours for an average home. You'll receive a certificate valid for 10 years (or until major works are carried out)."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Assessment Step",
+          "What the Assessor Checks"
+        ],
+        "rows": [
+          [
+            "Building fabric",
+            "Wall, roof, and floor construction; insulation type and depth"
+          ],
+          [
+            "Windows & doors",
+            "Glazing type (single/double/triple), frame material, age"
+          ],
+          [
+            "Heating system",
+            "Boiler type and age, fuel type, controls (programmer, TRVs, room thermostat)"
+          ],
+          [
+            "Hot water",
+            "Cylinder size and insulation, solar thermal if present"
+          ],
+          [
+            "Ventilation",
+            "Natural or mechanical, heat recovery if present"
+          ],
+          [
+            "Renewables",
+            "Solar PV, wind, heat pump — if installed"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Cost: A BER assessment typically costs €150–€250 for an average Irish home. The fee is not grant-aided, but it is a necessary first step before applying for most SEAI grants."
+      },
+      {
+        "type": "h2",
+        "text": "The Most Cost-Effective Ways to Improve Your BER"
+      },
+      {
+        "type": "p",
+        "text": "Not all measures move the needle equally. The table below shows typical BER improvement per measure for a 1980s semi-detached home — one of the most common housing types in Ireland."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Measure",
+          "Typical BER Improvement",
+          "SEAI Grant (semi-D)",
+          "Installed Cost"
+        ],
+        "rows": [
+          [
+            "Attic insulation (300mm)",
+            "+0.5–1 letter",
+            "€1,300",
+            "€800–€1,500"
+          ],
+          [
+            "Cavity wall insulation",
+            "+0.5–1 letter",
+            "€1,200",
+            "€1,000–€2,500"
+          ],
+          [
+            "External wall insulation",
+            "+1–2 letters",
+            "€6,000",
+            "€8,000–€20,000"
+          ],
+          [
+            "New windows (double→triple)",
+            "+0.3–0.5 letter",
+            "Up to €4,000",
+            "€7,000–€14,000"
+          ],
+          [
+            "Heat pump (replacing oil/gas boiler)",
+            "+1.5–3 letters",
+            "€12,500",
+            "€10,000–€18,000"
+          ],
+          [
+            "Solar PV (4kWp)",
+            "+0.3–0.5 letter",
+            "€1,800",
+            "€5,000–€9,000"
+          ],
+          [
+            "Heating controls upgrade",
+            "+0.2 letter",
+            "€700",
+            "€400–€900"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "For most D-rated homes, the fastest path to a B2 rating is: (1) full attic insulation, (2) wall insulation (cavity or external), (3) heat pump replacing an old gas or oil boiler. These three measures together — supported by [SEAI grants](https://www.seai.ie/grants/home-energy-grants/individual-grants) — can take a typical 1980s home from D1 to B2 for a net out-of-pocket cost of €12,000–€20,000 after grants."
+      },
+      {
+        "type": "h2",
+        "text": "Using the One-Stop-Shop Route to B2"
+      },
+      {
+        "type": "p",
+        "text": "If your goal is to reach B2 or better, the [SEAI One-Stop-Shop scheme](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/) is worth considering. An approved provider manages the whole project — survey, design, contractor coordination, grant paperwork — and can access total grants of up to €50,000, compared to lower individual measure caps under Better Energy Homes."
+      },
+      {
+        "type": "h2",
+        "text": "Checking Your Current BER"
+      },
+      {
+        "type": "p",
+        "text": "If your home has been sold or rented in the past 10 years, it probably already has a BER on record. Search the [SEAI BER register](https://ndber.seai.ie/pass/ber/search.aspx) by address or certificate number — it's free and public. If no certificate exists, commission a new assessment before applying for most grants."
+      },
+      {
+        "type": "cta",
+        "text": "Find a BER assessor or retrofit contractor near you",
+        "href": "directory.html"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: National BER Register — search your home's rating by address",
+            "href": "https://ndber.seai.ie/pass/ber/search.aspx"
+          },
+          {
+            "text": "SEAI: BER for Homeowners — what to expect from an assessment",
+            "href": "https://www.seai.ie/home-energy/building-energy-rating/ber-for-homeowners/"
+          },
+          {
+            "text": "SEAI: Registered BER Assessors list",
+            "href": "https://ndber.seai.ie/pass/assessors/assessorsregister.aspx"
+          },
+          {
+            "text": "Citizens Information: Building Energy Ratings explained",
+            "href": "https://www.citizensinformation.ie/en/housing/owning-a-home/home-owners/getting-a-building-energy-rating-for-your-home/"
+          },
+          {
+            "text": "Gov.ie: Part L — Conservation of Fuel and Energy (Dwellings)",
+            "href": "https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/"
+          },
+          {
+            "text": "Irish Statute Book: SI 666/2006 — Energy Performance of Buildings Regulations",
+            "href": "https://www.irishstatutebook.ie/eli/2006/si/666/made/en/print"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Windows & Doors Upgrades in Ireland 2026: SEAI Grants, U-Values, and What to Specify",
+    "date": "2026-05-08",
+    "category": "How-To Guides",
+    "author": "RetrofitList.ie Editorial Team",
+    "summary": "SEAI grants of up to €4,000 for windows and €1,600 for doors are available in 2026. This guide covers what U-values to specify, how to choose between double and triple glazing, planning permission rules, and how to find an SEAI-registered supplier.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Windows and external doors are among the most visible retrofit upgrades — and in 2026, [SEAI grants of up to €4,000 for windows and €1,600 for doors](https://www.seai.ie/grants/home-energy-grants/individual-grants/windows-doors-and-rooflights/) make them significantly more affordable. But not all windows are equal, and specifying the wrong product can mean spending heavily with limited energy improvement. This guide covers what to look for, what to avoid, and how to get the most from the available grants."
+      },
+      {
+        "type": "callout",
+        "text": "2026 SEAI Grants: Up to €4,000 for window upgrades, up to €1,600 for external door upgrades. You must use an SEAI-registered contractor and apply before work begins."
+      },
+      {
+        "type": "h2",
+        "text": "Understanding U-Values: The Key Specification"
+      },
+      {
+        "type": "p",
+        "text": "A U-value measures how quickly heat passes through a material — lower is better. Irish building regulations ([Part L](https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/)) require replacement windows to achieve a whole-window U-value of 1.4 W/m²K or better (frame included). This is the minimum to qualify for the SEAI grant."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Window Type",
+          "Typical U-value",
+          "Regulatory Status",
+          "Grant Eligible"
+        ],
+        "rows": [
+          [
+            "Single glazed",
+            "4.8–5.5 W/m²K",
+            "Fails Part L (not for new installs)",
+            "No"
+          ],
+          [
+            "Double glazed (standard)",
+            "1.6–2.0 W/m²K",
+            "Below Part L minimum",
+            "No"
+          ],
+          [
+            "Double glazed (low-e)",
+            "1.0–1.4 W/m²K",
+            "Meets Part L minimum",
+            "Yes"
+          ],
+          [
+            "Triple glazed",
+            "0.6–0.9 W/m²K",
+            "Above minimum — recommended",
+            "Yes"
+          ],
+          [
+            "Triple glazed (premium)",
+            "0.5–0.7 W/m²K",
+            "Passive house grade",
+            "Yes"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The low-e coating on modern double-glazed units is a thin metallic layer that reflects heat back into the room while still allowing light through. Without it, most standard double glazing falls short of Part L."
+      },
+      {
+        "type": "h2",
+        "text": "Double or Triple Glazing: Which Should You Choose?"
+      },
+      {
+        "type": "p",
+        "text": "Triple glazing is the clear winner on thermal performance, but the economics are more nuanced. The extra cost (typically 20–40% more than equivalent double glazing) takes longer to recoup through energy savings alone."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Factor",
+          "Double Glazed (low-e)",
+          "Triple Glazed"
+        ],
+        "rows": [
+          [
+            "U-value",
+            "1.0–1.4 W/m²K",
+            "0.5–0.9 W/m²K"
+          ],
+          [
+            "Cost per window (fitted)",
+            "€500–€900",
+            "€700–€1,200"
+          ],
+          [
+            "Sound insulation",
+            "Moderate",
+            "Noticeably better"
+          ],
+          [
+            "Condensation risk",
+            "Low-moderate",
+            "Very low"
+          ],
+          [
+            "Best for",
+            "Moderate climates, budget-conscious upgrades",
+            "Deep retrofit, heat pump homes"
+          ],
+          [
+            "Weight",
+            "Standard",
+            "Heavier — check frame suitability"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you are installing a heat pump as part of a wider retrofit, triple glazing is strongly recommended. Heat pumps work best in well-insulated, airtight homes — and windows are one of the biggest remaining sources of heat loss. The [Heat Pump Association of Ireland (HPAI)](https://www.hpai.ie) recommends triple glazing as part of any heat pump retrofit package."
+      },
+      {
+        "type": "h2",
+        "text": "Frame Materials: What to Know"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "uPVC — the most common in Ireland; low maintenance, good insulation, competitive cost. Look for multi-chamber profiles for better thermal performance.",
+          "Aluminium — sleek, slim frames; good for contemporary aesthetics; must have a thermal break (without one, aluminium is a poor insulator).",
+          "Timber — traditional look; excellent insulator; requires painting or staining every 5–7 years. Often specified in conservation areas.",
+          "Composite (timber core, aluminium exterior) — best of both worlds; premium price; very low maintenance."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "External Doors: What the Grant Covers"
+      },
+      {
+        "type": "p",
+        "text": "The SEAI door grant covers external doors only — front door, back door, patio/French doors. Internal doors are not eligible. To qualify, replacement doors must achieve a U-value of 1.5 W/m²K or better (whole door including frame). Modern insulated composite doors typically achieve 0.9–1.2 W/m²K — well inside the requirement."
+      },
+      {
+        "type": "p",
+        "text": "Composite doors (GRP skin over a polyurethane foam core) are now dominant in the Irish market — they outperform solid timber on insulation and require almost no maintenance. Always ask your supplier for the door's certified U-value before purchasing."
+      },
+      {
+        "type": "h2",
+        "text": "Planning Permission: When Do You Need It?"
+      },
+      {
+        "type": "p",
+        "text": "Replacing windows and doors like-for-like (same style, similar appearance) is generally exempt from planning permission under [SI 600/2001 Planning and Development Regulations](https://www.irishstatutebook.ie/eli/2001/si/600/made/en/). However:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Protected structures — any works require planning permission from your local authority, even like-for-like replacements",
+          "Architectural Conservation Areas (ACAs) — changes to front elevation windows typically need planning permission; check with your local authority",
+          "Changing window style significantly — e.g. single sash to casement; this may require permission",
+          "Apartments and duplexes — generally require management company approval and sometimes planning permission"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If in doubt, contact your local authority planning department. A pre-planning inquiry is free. [Citizens Information has a useful summary](https://www.citizensinformation.ie/en/housing/planning-permission/exempted-development/) of what counts as exempted development."
+      },
+      {
+        "type": "h2",
+        "text": "How to Claim the SEAI Grant"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Apply at seai.ie BEFORE any work begins — approval first, work second",
+          "Find an SEAI-registered windows and doors contractor using the RetrofitList.ie directory or SEAI's contractor search",
+          "Get at least three quotes — include the make, model, and certified U-value in each quote",
+          "Your contractor must be SEAI-registered for the grant to be payable",
+          "After completion, submit documentation — your contractor typically handles this",
+          "SEAI pays the grant directly to your bank account within 4–6 weeks"
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Tip: Ask your contractor for the window's CE mark and certified U-value documentation before signing a contract. This is what SEAI will ask for — having it upfront avoids delays after installation."
+      },
+      {
+        "type": "h2",
+        "text": "What Does a Full Window Replacement Cost in Ireland?"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Home Type",
+          "Typical Windows",
+          "Double Glazed (fitted)",
+          "Triple Glazed (fitted)",
+          "Net After Grant (est.)"
+        ],
+        "rows": [
+          [
+            "1-bed apartment",
+            "5–7 windows",
+            "€3,000–€5,000",
+            "€4,500–€7,000",
+            "€1,000–€3,000"
+          ],
+          [
+            "2-bed terraced",
+            "8–10 windows",
+            "€4,500–€7,000",
+            "€6,500–€10,000",
+            "€2,500–€6,000"
+          ],
+          [
+            "3-bed semi-D",
+            "10–14 windows",
+            "€6,000–€10,000",
+            "€8,500–€14,000",
+            "€4,000–€10,000"
+          ],
+          [
+            "4-bed detached",
+            "14–20 windows",
+            "€9,000–€16,000",
+            "€13,000–€22,000",
+            "€5,000–€18,000"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Always get three quotes. Prices above include supply and fitting but exclude any structural repairs to reveals or internal plastering after installation."
+      },
+      {
+        "type": "cta",
+        "text": "Find SEAI-registered window and door suppliers near you",
+        "href": "directory.html"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: Windows, Doors & Rooflights grant — amounts and eligibility",
+            "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants/windows-doors-and-rooflights/"
+          },
+          {
+            "text": "Gov.ie: Part L — Conservation of Fuel and Energy (Dwellings)",
+            "href": "https://www.gov.ie/en/publication/1c62e-part-l-conservation-of-fuel-and-energy-dwellings/"
+          },
+          {
+            "text": "Citizens Information: Planning permission — exempted development",
+            "href": "https://www.citizensinformation.ie/en/housing/planning-permission/exempted-development/"
+          },
+          {
+            "text": "Irish Statute Book: SI 600/2001 — Planning and Development Regulations",
+            "href": "https://www.irishstatutebook.ie/eli/2001/si/600/made/en/"
+          },
+          {
+            "text": "Heat Pump Association of Ireland (HPAI) — guidance for homeowners",
+            "href": "https://www.hpai.ie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Landlord BER Requirements in Ireland 2026: Legal Obligations, Upgrade Deadlines, and Available Grants",
+    "date": "2026-05-05",
+    "category": "Planning & Regulations",
+    "author": "RetrofitList.ie Editorial Team",
+    "summary": "Irish landlords face new minimum BER requirements for rental properties from 2025 onwards. This guide covers the legal obligations, the phased upgrade deadlines, available SEAI grants for rental properties, and the penalties for non-compliance.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Ireland's rental sector has some of the lowest energy efficiency standards in Europe — roughly 40% of private rental properties have a BER rating of D or below. That is changing. Under the [Housing for All plan](https://www.gov.ie/en/publication/ef5ec-housing-for-all-a-new-housing-plan-for-ireland/) and supporting regulations, landlords are subject to minimum BER requirements for new tenancies, with a phased upgrade programme rolling through 2030."
+      },
+      {
+        "type": "callout",
+        "text": "From 2025: All new tenancies in private rental properties must have a minimum BER of C3 or above. Properties rated D or below are subject to an upgrade notice. Full enforcement across all rental properties is expected by 2030."
+      },
+      {
+        "type": "h2",
+        "text": "The Phased BER Minimum Requirements for Landlords"
+      },
+      {
+        "type": "p",
+        "text": "The minimum BER standards for rental properties are being introduced in phases. The Department of Housing has confirmed the following schedule under the [National Retrofit Plan](https://www.gov.ie/en/publication/04915-national-retrofit-plan/):"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Phase",
+          "Deadline",
+          "Minimum BER Required",
+          "Who Is Affected"
+        ],
+        "rows": [
+          [
+            "Phase 1",
+            "2025 (commenced)",
+            "C3 for new tenancies",
+            "All new private rental tenancies"
+          ],
+          [
+            "Phase 2",
+            "2027",
+            "C3 for all existing tenancies",
+            "All private rental properties"
+          ],
+          [
+            "Phase 3",
+            "2030",
+            "B2 for all rental properties",
+            "All private rental properties"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Properties on long-term leases that commenced before the relevant deadline have a transition period. However, any tenancy beginning after the relevant phase date must comply. The Residential Tenancies Board (RTB) has enforcement powers under the [Residential Tenancies Act 2004](https://www.irishstatutebook.ie/eli/2004/act/27/enacted/en/html) as amended."
+      },
+      {
+        "type": "h2",
+        "text": "What If Your Rental Property Is Below C3?"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Commission a BER assessment — if no current certificate exists, get one first to establish your baseline rating",
+          "Identify which measures would bring the property to C3 — the BER assessor can advise",
+          "Apply for the SEAI Residential Retrofit Grant — landlords qualify for individual measure grants through the [Rental Property Retrofit Scheme](https://www.seai.ie/grants/rental-property-grants/)",
+          "Have works carried out by an SEAI-registered contractor",
+          "Commission a post-works BER assessment to confirm the new rating",
+          "Update your RTB registration with the new BER certificate"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "SEAI Grants Available to Landlords"
+      },
+      {
+        "type": "p",
+        "text": "Landlords are eligible for individual measure grants through the [SEAI Rental Property Retrofit Grant scheme](https://www.seai.ie/grants/rental-property-grants/), which mirrors the Better Energy Homes scheme available to owner-occupiers. Grant amounts are the same — up to €8,000 for external wall insulation, up to €12,500 for a heat pump system, up to €2,000 for attic insulation, and so on."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Measure",
+          "Max Grant (semi-D)",
+          "Typical Installed Cost",
+          "Typical BER Improvement"
+        ],
+        "rows": [
+          [
+            "Attic insulation",
+            "€1,300",
+            "€800–€1,500",
+            "+1 letter"
+          ],
+          [
+            "Cavity wall insulation",
+            "€1,200",
+            "€1,000–€2,500",
+            "+1 letter"
+          ],
+          [
+            "External wall insulation",
+            "€6,000",
+            "€8,000–€20,000",
+            "+1–2 letters"
+          ],
+          [
+            "Heat pump system",
+            "€12,500",
+            "€10,000–€18,000",
+            "+2–3 letters"
+          ],
+          [
+            "Windows (full replacement)",
+            "€4,000",
+            "€6,000–€14,000",
+            "+0.5 letter"
+          ],
+          [
+            "Heating controls",
+            "€700",
+            "€400–€900",
+            "+0.2 letter"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Landlords cannot access the One-Stop-Shop scheme (which is for owner-occupiers) or the Warmer Homes Scheme. However, the individual measure grants are substantial — for most D-rated properties, attic insulation and cavity wall insulation alone will typically reach C3."
+      },
+      {
+        "type": "h2",
+        "text": "The Most Cost-Effective Path from D to C3"
+      },
+      {
+        "type": "p",
+        "text": "For a typical 1980s–1990s semi-detached rental property rated D1 or D2, the following combination almost always achieves C3 at the lowest total cost:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Attic insulation to 300mm (grant: €1,300; net cost after grant: typically €0–€200)",
+          "Cavity wall insulation — if cavity walls are present (grant: €1,200; net cost: typically €0–€800)",
+          "Heating controls upgrade — programmer, room thermostat, thermostatic radiator valves (grant: €700; net cost: typically €0–€200)",
+          "Total net cost after grants for D to C3: approximately €1,000–€2,000 in most cases"
+        ]
+      },
+      {
+        "type": "callout",
+        "text": "Cavity wall insulation is usually the single most impactful measure for 1970s–1990s Irish rental properties. A cavity survey to confirm suitability costs €150–€250 and is worth doing before committing to any works."
+      },
+      {
+        "type": "h2",
+        "text": "Penalties for Non-Compliance"
+      },
+      {
+        "type": "p",
+        "text": "The RTB has powers under the Residential Tenancies Act to issue improvement notices and impose financial penalties on landlords who do not comply with minimum BER standards. The [Residential Tenancies (Amendment) Act 2024](https://www.irishstatutebook.ie/eli/2024/act/5/enacted/en/html) strengthened these enforcement powers. Non-compliant landlords may also face difficulty registering tenancies and could lose access to landlord tax reliefs."
+      },
+      {
+        "type": "h2",
+        "text": "Tax Treatment of Retrofit Spend"
+      },
+      {
+        "type": "p",
+        "text": "Capital expenditure on improving a rental property — including energy upgrades — is generally not deductible as a revenue expense in the year of spend. However, it may qualify as a capital allowance or form part of the cost base for CGT purposes. From 2023, the [Residential Premises Rental Income Relief](https://www.revenue.ie/en/property/rental-income/index.aspx) scheme offers a 10% tax credit on rental income to landlords who remain in the rental market. Always consult a tax adviser on your specific circumstances."
+      },
+      {
+        "type": "cta",
+        "text": "Find SEAI-registered contractors for landlord retrofits",
+        "href": "directory.html"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: Rental Property Retrofit Grant scheme",
+            "href": "https://www.seai.ie/grants/rental-property-grants/"
+          },
+          {
+            "text": "Gov.ie: National Retrofit Plan 2021",
+            "href": "https://www.gov.ie/en/publication/04915-national-retrofit-plan/"
+          },
+          {
+            "text": "Gov.ie: Housing for All — the government housing plan",
+            "href": "https://www.gov.ie/en/publication/ef5ec-housing-for-all-a-new-housing-plan-for-ireland/"
+          },
+          {
+            "text": "Citizens Information: Minimum standards for rented housing",
+            "href": "https://www.citizensinformation.ie/en/housing/renting-a-home/tenants-rights-and-responsibilities/minimum-standards-for-rented-homes/"
+          },
+          {
+            "text": "Irish Statute Book: Residential Tenancies Act 2004",
+            "href": "https://www.irishstatutebook.ie/eli/2004/act/27/enacted/en/html"
+          },
+          {
+            "text": "Revenue.ie: Residential Premises Rental Income Relief",
+            "href": "https://www.revenue.ie/en/property/rental-income/index.aspx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Retrofit Costs in Ireland 2026: Real Numbers, Payback Periods, and What You'll Actually Spend",
+    "date": "2026-05-03",
+    "category": "How-To Guides",
+    "author": "RetrofitList.ie Editorial Team",
+    "summary": "What does a home retrofit actually cost in Ireland in 2026? This guide breaks down realistic installed costs for every major measure, calculates net costs after SEAI grants, estimates annual energy savings, and shows which upgrades pay back fastest.",
+    "body": [
+      {
+        "type": "p",
+        "text": "One of the biggest barriers to home retrofit in Ireland is uncertainty about cost. Quotes vary widely, grant amounts have changed, and much of the published guidance uses figures that are out of date. This guide uses 2026 market data to give you realistic cost ranges for each measure — gross installed cost, SEAI grant, net cost to you, and estimated annual saving."
+      },
+      {
+        "type": "callout",
+        "text": "All costs in this guide reflect 2026 Irish market prices including VAT at 13.5% (the reduced rate applicable to most home improvement works). Individual costs vary with home size, location, accessibility, and contractor. Always get at least three quotes."
+      },
+      {
+        "type": "h2",
+        "text": "Master Cost Table: Every Major Retrofit Measure"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Measure",
+          "Gross Installed Cost",
+          "SEAI Grant (semi-D)",
+          "Net Cost",
+          "Annual Saving (est.)",
+          "Simple Payback"
+        ],
+        "rows": [
+          [
+            "Attic insulation",
+            "€800–€1,500",
+            "€1,300",
+            "€0–€200",
+            "€200–€400/yr",
+            "0–1 year"
+          ],
+          [
+            "Cavity wall insulation",
+            "€1,000–€2,500",
+            "€1,200",
+            "€0–€1,300",
+            "€250–€500/yr",
+            "1–3 years"
+          ],
+          [
+            "Internal wall insulation",
+            "€6,000–€14,000",
+            "€3,500",
+            "€2,500–€10,500",
+            "€400–€900/yr",
+            "5–12 years"
+          ],
+          [
+            "External wall insulation",
+            "€8,000–€20,000",
+            "€6,000",
+            "€2,000–€14,000",
+            "€500–€1,200/yr",
+            "4–15 years"
+          ],
+          [
+            "Heat pump (air-to-water)",
+            "€10,000–€18,000",
+            "€12,500",
+            "€0–€5,500",
+            "€800–€2,000/yr",
+            "0–7 years"
+          ],
+          [
+            "Solar PV (4kWp)",
+            "€5,000–€9,000",
+            "€1,800",
+            "€3,200–€7,200",
+            "€400–€900/yr",
+            "5–10 years"
+          ],
+          [
+            "Triple glazing (10 windows)",
+            "€7,000–€14,000",
+            "€4,000",
+            "€3,000–€10,000",
+            "€200–€500/yr",
+            "8–20 years"
+          ],
+          [
+            "External doors (2)",
+            "€2,000–€4,000",
+            "€1,600",
+            "€400–€2,400",
+            "€50–€150/yr",
+            "5–15 years"
+          ],
+          [
+            "Heating controls upgrade",
+            "€400–€900",
+            "€700",
+            "€0–€200",
+            "€150–€300/yr",
+            "0–1 year"
+          ],
+          [
+            "MVHR ventilation",
+            "€4,000–€8,000",
+            "€1,500",
+            "€2,500–€6,500",
+            "€100–€200/yr",
+            "15–30 years"
+          ],
+          [
+            "Airtightness testing",
+            "€300–€500",
+            "€1,000",
+            "€0 (grant > cost)",
+            "—",
+            "Immediate net gain"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Savings are estimated based on moving from a typical D1-rated 1980s semi-detached home with oil heating. Actual savings depend on fuel type, thermostat settings, occupancy patterns, and home size. Electricity price used: €0.35/kWh; oil: €1.10/litre (2026 averages)."
+      },
+      {
+        "type": "h2",
+        "text": "The Single Best Return: Attic Insulation"
+      },
+      {
+        "type": "p",
+        "text": "Attic insulation consistently delivers the fastest payback of any retrofit measure. For a semi-detached home with an uninsulated or under-insulated attic, the [SEAI grant of €1,300](https://www.seai.ie/grants/home-energy-grants/individual-grants/insulation-grants/) often exceeds the installation cost entirely — meaning the homeowner pays nothing and saves €200–€400 per year immediately. This is the one measure almost every retrofit professional recommends doing first, regardless of what else is planned."
+      },
+      {
+        "type": "h2",
+        "text": "Biggest Net Saving: Heat Pumps"
+      },
+      {
+        "type": "p",
+        "text": "An [air-to-water heat pump](https://www.seai.ie/grants/home-energy-grants/individual-grants/heat-pump-system-grant/) replacing an old oil or gas boiler typically saves €800–€2,000 per year in fuel costs. With the SEAI grant of up to €12,500, many homeowners reach near-zero net upfront cost. The catch: heat pumps work best in well-insulated homes. Insulate the fabric first, then upgrade the heating system."
+      },
+      {
+        "type": "callout",
+        "text": "Rule of thumb: insulate before you heat. A heat pump in a poorly insulated home will run continuously and deliver poor efficiency. Insulate walls and attic first, then upgrade the heating system."
+      },
+      {
+        "type": "h2",
+        "text": "The Full Deep Retrofit: What Does a B2 Cost?"
+      },
+      {
+        "type": "p",
+        "text": "A full deep retrofit targeting a B2 BER rating for a typical 1980s semi-detached home — attic insulation, external wall insulation, triple glazing, heat pump, heating controls — typically costs €35,000–€60,000 gross before grants. After SEAI grants of up to €25,000+ (or up to €50,000 via the [One-Stop-Shop route](https://www.seai.ie/grants/home-energy-grants/one-stop-shop/)), the net cost is typically €15,000–€35,000."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Retrofit Scope",
+          "Gross Cost",
+          "SEAI Grants",
+          "Net Cost",
+          "Typical BER Result"
+        ],
+        "rows": [
+          [
+            "Quick wins (attic + controls)",
+            "€1,200–€2,400",
+            "€2,000",
+            "€0–€400",
+            "D1 → C2"
+          ],
+          [
+            "Mid-level (+ cavity wall)",
+            "€2,200–€4,900",
+            "€3,200",
+            "€0–€1,700",
+            "D1 → C1"
+          ],
+          [
+            "Significant (+ heat pump)",
+            "€12,200–€22,900",
+            "€15,700",
+            "€0–€7,200",
+            "D1 → B3"
+          ],
+          [
+            "Full deep retrofit",
+            "€35,000–€60,000",
+            "€20,000–€50,000",
+            "€10,000–€40,000",
+            "D1 → A3/B1"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Green Mortgages and Retrofit Loans"
+      },
+      {
+        "type": "p",
+        "text": "For homeowners who want to do a full retrofit but cannot fund the net cost upfront, green mortgages and retrofit loans are increasingly available. The [SEAI Home Energy Upgrade Loan](https://www.seai.ie/grants/home-energy-grants/home-energy-upgrade-loan/) — a government-backed low-interest loan scheme operated through participating banks — offers rates from 3.5–4.5% APR for retrofit works, significantly below standard personal loan rates. Several Irish banks also offer green top-up mortgages at preferential rates for homes reaching B3 or above."
+      },
+      {
+        "type": "h2",
+        "text": "VAT on Retrofit Works"
+      },
+      {
+        "type": "p",
+        "text": "Most home energy retrofit works attract VAT at 13.5% (the reduced rate for labour-intensive renovation works). This is already included in the cost figures above. Confirm with your contractor what VAT rate applies and ensure it is clearly stated in your written quote."
+      },
+      {
+        "type": "h2",
+        "text": "How to Get an Accurate Quote"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Commission a BER assessment first — it identifies exactly where your home is losing heat and what measures will have most impact",
+          "Get at least three quotes for each measure from SEAI-registered contractors",
+          "Ensure every quote includes: scope of works, product specification, SEAI grant amount assumed, net cost to you, and a start date",
+          "Check the contractor's SEAI registration is current before signing — use the [SEAI contractor search](https://www.seai.ie/find-grants-and-contractors/find-contractors/)",
+          "Ask specifically: 'What BER rating will my home achieve after this work?' — a good contractor should give you an estimate"
+        ]
+      },
+      {
+        "type": "cta",
+        "text": "Find SEAI-registered retrofit contractors near you",
+        "href": "directory.html"
+      },
+      {
+        "type": "sources",
+        "items": [
+          {
+            "text": "SEAI: Individual Energy Upgrade Grants — full amounts by measure and house type",
+            "href": "https://www.seai.ie/grants/home-energy-grants/individual-grants"
+          },
+          {
+            "text": "SEAI: Home Energy Upgrade Loan scheme",
+            "href": "https://www.seai.ie/grants/home-energy-grants/home-energy-upgrade-loan/"
+          },
+          {
+            "text": "SEAI: One-Stop-Shop grants (up to €50,000 total)",
+            "href": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/"
+          },
+          {
+            "text": "Citizens Information: Grants for home energy upgrades",
+            "href": "https://www.citizensinformation.ie/en/housing/housing-grants-and-schemes/grants-for-home-renovations-and-improvements/better-energy-homes-scheme/"
+          },
+          {
+            "text": "Revenue.ie: VAT on building services and home renovation",
+            "href": "https://www.revenue.ie/en/vat/vat-on-goods/vat-rates-of-building-services.aspx"
+          }
+        ]
+      }
     ]
   }
 ]
