@@ -51,6 +51,30 @@ const icon = {
   user:     `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>`,
 };
 
+// ---- Article body renderer -------------------------------------------
+// Supports rich content blocks alongside plain strings (backward compat).
+
+function renderBody(body) {
+  if (!Array.isArray(body)) return `<p>${esc(String(body))}</p>`;
+  return body.map(block => {
+    if (typeof block === 'string') return `<p>${esc(block)}</p>`;
+    const { type } = block;
+    if (type === 'h2') return `<h2 class="article-h2">${esc(block.text)}</h2>`;
+    if (type === 'h3') return `<h3 class="article-h3">${esc(block.text)}</h3>`;
+    if (type === 'p')  return `<p>${esc(block.text)}</p>`;
+    if (type === 'ul') return `<ul class="article-list">${block.items.map(i => `<li>${esc(i)}</li>`).join('')}</ul>`;
+    if (type === 'ol') return `<ol class="article-list article-list--ol">${block.items.map(i => `<li>${esc(i)}</li>`).join('')}</ol>`;
+    if (type === 'callout') return `<div class="article-callout">${esc(block.text)}</div>`;
+    if (type === 'cta') return `<div class="article-cta"><a href="${esc(block.href)}" class="btn btn-primary">${esc(block.text)}</a></div>`;
+    if (type === 'table') {
+      const headers = block.headers.map(h => `<th>${esc(h)}</th>`).join('');
+      const rows    = block.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('');
+      return `<div class="article-table-wrap"><table class="article-table"><thead><tr>${headers}</tr></thead><tbody>${rows}</tbody></table></div>`;
+    }
+    return '';
+  }).join('\n');
+}
+
 // ---- Card renderers --------------------------------------------------
 
 function renderProviderCard(p) {
@@ -308,9 +332,7 @@ function initArticle() {
   document.title = `${article.title} | Retrofit Ireland — RetrofitList.ie`;
 
   const catClass = getCatClass(article.category);
-  const bodyHtml = Array.isArray(article.body)
-    ? article.body.map(p => `<p>${esc(p)}</p>`).join('')
-    : `<p>${esc(article.body)}</p>`;
+  const bodyHtml = renderBody(article.body);
 
   container.innerHTML = `
     <div class="article-detail">
